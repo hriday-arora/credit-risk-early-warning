@@ -1,0 +1,1027 @@
+loan_id,month,emi,bounce_reason_raw
+SYN-00000,4,1744.0,Not Present
+SYN-00000,5,1744.0,NACH not active
+SYN-00000,7,1744.0,Not Presented
+SYN-00002,4,5177.0,Account Closed
+SYN-00002,5,5177.0,Not Present
+SYN-00003,4,8830.0,BALANCE INSUFFICIENT
+SYN-00003,5,8830.0,Not Present
+SYN-00003,8,8830.0,4-Balance Insufficient
+SYN-00008,4,2468.0,Not Present
+SYN-00008,6,2468.0,Not Present
+SYN-00009,7,2608.0,Insufficient Funds
+SYN-00010,4,9988.0,not to present
+SYN-00010,7,9988.0,Not Presented
+SYN-00011,7,3360.0,Insufficient Funds
+SYN-00011,8,3360.0,Not Present
+SYN-00012,8,8088.0,Not Present
+SYN-00013,4,3825.0,Not Present
+SYN-00013,6,3825.0,Not Presented
+SYN-00013,7,3825.0,Not Present
+SYN-00013,8,3825.0,BALANCE INSUFFICIENT
+SYN-00014,5,2802.0,BALANCE INSUFFICIENT
+SYN-00014,8,2802.0,Insufficient Balance
+SYN-00015,6,7659.0,fund insuffieient
+SYN-00016,4,1634.0,fund insuffieient
+SYN-00016,5,1634.0,a/c blocked / frozen / closed
+SYN-00016,8,1634.0,Not Presented
+SYN-00019,5,11917.0,not to present
+SYN-00020,5,5564.0,BALANCE INSUFFICIENT
+SYN-00020,6,5564.0,Not Presented
+SYN-00020,8,5564.0,Not Present
+SYN-00021,6,6323.0,Not Presented
+SYN-00021,7,6323.0,4-Balance Insufficient
+SYN-00022,4,5621.0,BALANCE INSUFFICIENT
+SYN-00022,5,5621.0,Insufficient Balance
+SYN-00022,6,5621.0,4-Balance Insufficient
+SYN-00022,8,5621.0,not to present
+SYN-00023,6,14355.0,Insufficient Balance
+SYN-00024,6,4669.0,Not Present
+SYN-00024,8,4669.0,Not Presented
+SYN-00026,6,1953.0,Not Present
+SYN-00030,4,2694.0,not to present
+SYN-00030,5,2694.0,not to present
+SYN-00030,6,2694.0,4-Balance Insufficient
+SYN-00035,5,3157.0,Not Presented
+SYN-00035,8,3157.0,not to present
+SYN-00036,7,7059.0,Not Present
+SYN-00037,8,1229.0,Insufficient Funds
+SYN-00038,8,1683.0,Not Present
+SYN-00039,4,3363.0,fund insufficient
+SYN-00039,5,3363.0,not to present
+SYN-00039,6,3363.0,Not Present
+SYN-00040,8,9340.0,Not Presented
+SYN-00041,5,18086.0,Not Present
+SYN-00041,6,18086.0,Not Presented
+SYN-00042,4,7179.0,Insufficient Funds
+SYN-00042,5,7179.0,fund insuffieient
+SYN-00043,7,12621.0,Not Present
+SYN-00044,6,1358.0,Not Present
+SYN-00045,8,3524.0,Not Presented
+SYN-00046,5,20648.0,Not Presented
+SYN-00047,5,9000.0,4-Balance Insufficient
+SYN-00047,8,9000.0,Not Presented
+SYN-00048,8,4448.0,Insufficient Funds
+SYN-00049,8,1633.0,fund insuffieient
+SYN-00051,4,8137.0,not to present
+SYN-00051,8,8137.0,not to present
+SYN-00053,6,3716.0,not to present
+SYN-00054,7,4450.0,not to present
+SYN-00055,5,5523.0,Not Presented
+SYN-00057,4,9173.0,BALANCE INSUFFICIENT
+SYN-00059,7,3068.0,Not Present
+SYN-00059,8,3068.0,Insufficient Funds
+SYN-00060,5,14333.0,Account Closed
+SYN-00062,6,18028.0,not to present
+SYN-00063,8,2224.0,Not Presented
+SYN-00064,5,3755.0,BALANCE INSUFFICIENT
+SYN-00064,6,3755.0,not to present
+SYN-00064,7,3755.0,Account Closed
+SYN-00065,5,7061.0,Not Present
+SYN-00066,4,5308.0,Exhausted
+SYN-00066,7,5308.0,Not Present
+SYN-00068,8,6835.0,4-Balance Insufficient
+SYN-00075,5,3441.0,Not Present
+SYN-00075,6,3441.0,not to present
+SYN-00077,4,8216.0,fund insuffieient
+SYN-00078,4,3819.0,not to present
+SYN-00078,5,3819.0,Insufficient Funds
+SYN-00078,6,3819.0,Insufficient Funds
+SYN-00082,5,12109.0,fund insuffieient
+SYN-00083,4,10375.0,Insufficient Funds
+SYN-00084,5,7120.0,Insufficient Funds
+SYN-00085,5,7015.0,Insufficient Funds
+SYN-00087,8,8800.0,Not Present
+SYN-00088,4,1300.0,Not Presented
+SYN-00088,6,1300.0,BALANCE INSUFFICIENT
+SYN-00094,7,15376.0,fund insuffieient
+SYN-00098,6,2345.0,fund insuffieient
+SYN-00099,5,7339.0,fund insuffieient
+SYN-00100,4,2379.0,4-Balance Insufficient
+SYN-00100,8,2379.0,not to present
+SYN-00101,7,5709.0,fund insuffieient
+SYN-00103,5,6677.0,Not Presented
+SYN-00103,6,6677.0,4-Balance Insufficient
+SYN-00104,4,18856.0,fund insufficient
+SYN-00105,4,8943.0,BALANCE INSUFFICIENT
+SYN-00106,5,9290.0,4-Balance Insufficient
+SYN-00108,6,4150.0,fund insuffieient
+SYN-00108,7,4150.0,Not Present
+SYN-00108,8,4150.0,Not Presented
+SYN-00109,6,8757.0,Insufficient Balance
+SYN-00110,4,5347.0,Not Present
+SYN-00110,6,5347.0,fund insuffieient
+SYN-00111,5,14562.0,Insufficient Funds
+SYN-00114,4,4145.0,Not Present
+SYN-00114,6,4145.0,not to present
+SYN-00115,6,14034.0,BALANCE INSUFFICIENT
+SYN-00116,8,5751.0,Insufficient Funds
+SYN-00117,4,8657.0,not to present
+SYN-00118,4,6568.0,4-Balance Insufficient
+SYN-00118,6,6568.0,fund insuffieient
+SYN-00118,7,6568.0,Not Presented
+SYN-00118,8,6568.0,a/c blocked / frozen / closed
+SYN-00121,5,13592.0,A/C Blocked or Frozen
+SYN-00121,6,13592.0,Insufficient Balance
+SYN-00121,7,13592.0,fund insufficient
+SYN-00121,8,13592.0,Insufficient Funds
+SYN-00123,4,6151.0,Insufficient Funds
+SYN-00123,5,6151.0,fund insufficient
+SYN-00124,4,2502.0,Not Presented
+SYN-00124,5,2502.0,not to present
+SYN-00124,7,2502.0,Insufficient Balance
+SYN-00124,8,2502.0,a/c blocked / frozen / closed
+SYN-00126,5,5744.0,Not Presented
+SYN-00126,6,5744.0,fund insufficient
+SYN-00126,7,5744.0,not to present
+SYN-00128,4,8923.0,Not Present
+SYN-00128,7,8923.0,not to present
+SYN-00130,4,3107.0,Insufficient Funds
+SYN-00130,5,3107.0,fund insuffieient
+SYN-00132,5,12032.0,4-Balance Insufficient
+SYN-00132,6,12032.0,Not Present
+SYN-00136,5,4717.0,Not Present
+SYN-00137,4,2004.0,Not Presented
+SYN-00137,5,2004.0,BALANCE INSUFFICIENT
+SYN-00137,6,2004.0,not to present
+SYN-00138,7,20259.0,not to present
+SYN-00138,8,20259.0,fund insuffieient
+SYN-00139,4,1373.0,Not Presented
+SYN-00139,5,1373.0,not to present
+SYN-00139,6,1373.0,Insufficient Balance
+SYN-00139,7,1373.0,fund insuffieient
+SYN-00139,8,1373.0,4-Balance Insufficient
+SYN-00140,5,7604.0,4-Balance Insufficient
+SYN-00140,6,7604.0,Insufficient Balance
+SYN-00141,4,9333.0,fund insuffieient
+SYN-00143,4,2851.0,Not Presented
+SYN-00144,8,6564.0,Not Present
+SYN-00146,4,10072.0,Not Present
+SYN-00147,7,6964.0,4-Balance Insufficient
+SYN-00148,4,2176.0,fund insufficient
+SYN-00149,5,3082.0,BALANCE INSUFFICIENT
+SYN-00149,6,3082.0,fund insuffieient
+SYN-00151,8,3236.0,not to present
+SYN-00152,5,5672.0,Insufficient Funds
+SYN-00152,7,5672.0,Insufficient Balance
+SYN-00153,6,5872.0,not to present
+SYN-00155,5,32438.0,Insufficient Balance
+SYN-00155,8,32438.0,BALANCE INSUFFICIENT
+SYN-00156,5,9597.0,Not Presented
+SYN-00156,6,9597.0,4-Balance Insufficient
+SYN-00157,4,10552.0,Not Presented
+SYN-00157,5,10552.0,BALANCE INSUFFICIENT
+SYN-00157,6,10552.0,not to present
+SYN-00157,7,10552.0,Insufficient Balance
+SYN-00157,8,10552.0,fund insufficient
+SYN-00160,5,9117.0,fund insufficient
+SYN-00160,8,9117.0,Insufficient Funds
+SYN-00162,7,5740.0,Not Present
+SYN-00163,6,3771.0,not to present
+SYN-00164,7,3328.0,Not Present
+SYN-00166,8,8944.0,fund insufficient
+SYN-00167,5,1764.0,4-Balance Insufficient
+SYN-00167,8,1764.0,Not Present
+SYN-00168,7,14260.0,BALANCE INSUFFICIENT
+SYN-00169,4,2633.0,Insufficient Balance
+SYN-00169,6,2633.0,Not Presented
+SYN-00169,8,2633.0,not to present
+SYN-00170,5,2607.0,not to present
+SYN-00171,6,8933.0,Not Present
+SYN-00172,5,5495.0,Not Presented
+SYN-00174,5,3192.0,BALANCE INSUFFICIENT
+SYN-00174,6,3192.0,Insufficient Funds
+SYN-00175,4,1737.0,not to present
+SYN-00175,6,1737.0,Not Present
+SYN-00176,4,2714.0,Insufficient Balance
+SYN-00176,6,2714.0,Not Present
+SYN-00176,7,2714.0,not to present
+SYN-00177,4,4715.0,A/C Blocked or Frozen
+SYN-00177,6,4715.0,Insufficient Funds
+SYN-00180,5,3972.0,Insufficient Funds
+SYN-00180,7,3972.0,4-Balance Insufficient
+SYN-00180,8,3972.0,not to present
+SYN-00181,7,2355.0,4-Balance Insufficient
+SYN-00183,4,6395.0,fund insuffieient
+SYN-00183,5,6395.0,BALANCE INSUFFICIENT
+SYN-00183,8,6395.0,Not Present
+SYN-00184,5,15825.0,Not Presented
+SYN-00184,6,15825.0,Not Present
+SYN-00185,4,8459.0,fund insufficient
+SYN-00185,7,8459.0,Not Presented
+SYN-00187,7,3834.0,Not Present
+SYN-00188,4,2503.0,Not Presented
+SYN-00188,6,2503.0,Not Present
+SYN-00188,7,2503.0,not to present
+SYN-00189,4,4887.0,BALANCE INSUFFICIENT
+SYN-00189,5,4887.0,Not Presented
+SYN-00189,6,4887.0,4-Balance Insufficient
+SYN-00189,7,4887.0,not to present
+SYN-00190,4,8541.0,not to present
+SYN-00190,6,8541.0,Insufficient Balance
+SYN-00190,7,8541.0,Not Present
+SYN-00192,5,3720.0,Insufficient Funds
+SYN-00192,8,3720.0,Insufficient Funds
+SYN-00193,4,4485.0,Insufficient Funds
+SYN-00193,5,4485.0,Not Presented
+SYN-00193,6,4485.0,Not Present
+SYN-00193,7,4485.0,fund insufficient
+SYN-00193,8,4485.0,Not Present
+SYN-00194,7,11779.0,Not Presented
+SYN-00196,7,12655.0,Not Presented
+SYN-00197,4,9788.0,Insufficient Balance
+SYN-00198,8,4493.0,Not Present
+SYN-00199,5,5608.0,Insufficient Funds
+SYN-00199,6,5608.0,not to present
+SYN-00199,8,5608.0,fund insuffieient
+SYN-00200,7,3252.0,4-Balance Insufficient
+SYN-00200,8,3252.0,fund insufficient
+SYN-00201,5,10787.0,4-Balance Insufficient
+SYN-00201,7,10787.0,Not Presented
+SYN-00201,8,10787.0,4-Balance Insufficient
+SYN-00202,6,15376.0,Not Present
+SYN-00203,6,17149.0,fund insufficient
+SYN-00203,7,17149.0,Not Present
+SYN-00203,8,17149.0,Not Present
+SYN-00205,4,5331.0,Not Presented
+SYN-00205,6,5331.0,Insufficient Funds
+SYN-00208,5,10577.0,99-Mandate before start date
+SYN-00210,6,2995.0,Not Present
+SYN-00211,5,11339.0,not to present
+SYN-00213,5,11790.0,fund insufficient
+SYN-00214,4,5867.0,Insufficient Funds
+SYN-00214,7,5867.0,fund insufficient
+SYN-00215,4,4935.0,fund insuffieient
+SYN-00215,8,4935.0,Insufficient Funds
+SYN-00217,4,19549.0,fund insuffieient
+SYN-00220,5,10864.0,Not Present
+SYN-00221,5,10686.0,Not Presented
+SYN-00221,8,10686.0,BALANCE INSUFFICIENT
+SYN-00224,4,5859.0,fund insufficient
+SYN-00224,7,5859.0,Not Presented
+SYN-00225,5,3916.0,fund insufficient
+SYN-00225,6,3916.0,Not Present
+SYN-00226,4,11472.0,Not Presented
+SYN-00226,5,11472.0,Not Present
+SYN-00226,6,11472.0,Not Presented
+SYN-00226,7,11472.0,not to present
+SYN-00227,4,5773.0,Not Presented
+SYN-00227,5,5773.0,not to present
+SYN-00227,7,5773.0,Not Presented
+SYN-00227,8,5773.0,Account Closed
+SYN-00229,5,3437.0,fund insuffieient
+SYN-00231,5,7357.0,Not Presented
+SYN-00232,6,2176.0,Not Presented
+SYN-00233,5,8095.0,Insufficient Balance
+SYN-00233,7,8095.0,not to present
+SYN-00234,6,4599.0,Insufficient Balance
+SYN-00235,5,3167.0,fund insuffieient
+SYN-00235,7,3167.0,a/c blocked / frozen / closed
+SYN-00236,5,4520.0,99-Mandate before start date
+SYN-00237,8,10384.0,4-Balance Insufficient
+SYN-00239,5,11716.0,Not Presented
+SYN-00240,5,14389.0,Not Present
+SYN-00240,6,14389.0,Not Presented
+SYN-00242,4,1369.0,Not Present
+SYN-00244,4,4972.0,Not Presented
+SYN-00244,5,4972.0,4-Balance Insufficient
+SYN-00244,7,4972.0,not to present
+SYN-00244,8,4972.0,not to present
+SYN-00246,8,6278.0,Not Presented
+SYN-00247,4,6848.0,Not Present
+SYN-00247,5,6848.0,Not Present
+SYN-00247,6,6848.0,fund insuffieient
+SYN-00247,7,6848.0,Not Present
+SYN-00248,5,7523.0,Not Present
+SYN-00248,7,7523.0,Not Presented
+SYN-00248,8,7523.0,fund insufficient
+SYN-00250,7,16010.0,not to present
+SYN-00250,8,16010.0,Not Present
+SYN-00251,4,5035.0,BALANCE INSUFFICIENT
+SYN-00251,6,5035.0,fund insuffieient
+SYN-00252,4,10107.0,BALANCE INSUFFICIENT
+SYN-00252,5,10107.0,Insufficient Funds
+SYN-00252,6,10107.0,Insufficient Funds
+SYN-00252,7,10107.0,Insufficient Funds
+SYN-00252,8,10107.0,Not Present
+SYN-00254,6,5207.0,a/c blocked / frozen / closed
+SYN-00254,8,5207.0,Not Present
+SYN-00255,4,8891.0,not to present
+SYN-00255,6,8891.0,not to present
+SYN-00256,4,6473.0,fund insuffieient
+SYN-00256,5,6473.0,Mandate UMRN is not present |
+SYN-00256,6,6473.0,fund insufficient
+SYN-00256,7,6473.0,fund insuffieient
+SYN-00259,5,15797.0,BALANCE INSUFFICIENT
+SYN-00260,4,3245.0,Not Presented
+SYN-00260,7,3245.0,Not Present
+SYN-00261,5,2229.0,Not Presented
+SYN-00261,7,2229.0,not to present
+SYN-00262,5,5630.0,Mandate UMRN is not present |
+SYN-00262,7,5630.0,not to present
+SYN-00264,6,8215.0,4-Balance Insufficient
+SYN-00264,7,8215.0,4-Balance Insufficient
+SYN-00264,8,8215.0,Not Present
+SYN-00267,4,4376.0,68-A/C Blocked or Frozen
+SYN-00267,8,4376.0,BALANCE INSUFFICIENT
+SYN-00269,4,4389.0,Not Presented
+SYN-00269,7,4389.0,BALANCE INSUFFICIENT
+SYN-00271,4,9517.0,Account Closed
+SYN-00271,7,9517.0,Not Presented
+SYN-00272,6,5824.0,BALANCE INSUFFICIENT
+SYN-00273,6,5008.0,Insufficient Balance
+SYN-00273,7,5008.0,Not Presented
+SYN-00273,8,5008.0,Not Presented
+SYN-00274,4,10883.0,Not Presented
+SYN-00274,5,10883.0,Insufficient Balance
+SYN-00274,8,10883.0,Not Presented
+SYN-00275,7,4253.0,fund insuffieient
+SYN-00278,6,3569.0,fund insufficient
+SYN-00278,8,3569.0,fund insufficient
+SYN-00280,7,5517.0,Not Presented
+SYN-00281,4,4084.0,Insufficient Balance
+SYN-00282,7,11779.0,not to present
+SYN-00282,8,11779.0,Insufficient Balance
+SYN-00283,4,7211.0,Not Present
+SYN-00283,5,7211.0,Not Presented
+SYN-00283,6,7211.0,not to present
+SYN-00284,4,5796.0,not to present
+SYN-00286,6,12771.0,not to present
+SYN-00286,8,12771.0,4-Balance Insufficient
+SYN-00287,4,10548.0,Not Present
+SYN-00287,6,10548.0,4-Balance Insufficient
+SYN-00288,6,5072.0,Not Present
+SYN-00288,7,5072.0,not to present
+SYN-00290,5,11327.0,Account Closed
+SYN-00290,6,11327.0,Not Present
+SYN-00290,7,11327.0,Not Present
+SYN-00291,5,9864.0,Not Present
+SYN-00291,7,9864.0,Not Present
+SYN-00292,6,4044.0,not to present
+SYN-00294,4,4469.0,Not Presented
+SYN-00295,6,7729.0,fund insufficient
+SYN-00296,8,10384.0,Not Presented
+SYN-00297,4,5979.0,Insufficient Funds
+SYN-00297,6,5979.0,Not Presented
+SYN-00297,7,5979.0,fund insufficient
+SYN-00297,8,5979.0,Not Presented
+SYN-00298,4,4218.0,not to present
+SYN-00298,7,4218.0,fund insufficient
+SYN-00299,6,4429.0,not to present
+SYN-00299,7,4429.0,Not Present
+SYN-00299,8,4429.0,not to present
+SYN-00300,4,2760.0,not to present
+SYN-00300,5,2760.0,Not Presented
+SYN-00300,6,2760.0,Not Presented
+SYN-00300,8,2760.0,fund insuffieient
+SYN-00302,4,5660.0,not to present
+SYN-00302,7,5660.0,not to present
+SYN-00303,4,5931.0,Not Present
+SYN-00304,5,18021.0,fund insuffieient
+SYN-00304,7,18021.0,Not Presented
+SYN-00306,6,8717.0,Not Presented
+SYN-00308,5,10779.0,Not Presented
+SYN-00308,7,10779.0,fund insuffieient
+SYN-00309,4,2079.0,Not Presented
+SYN-00309,5,2079.0,fund insufficient
+SYN-00309,7,2079.0,Not Present
+SYN-00310,4,7245.0,fund insuffieient
+SYN-00310,5,7245.0,fund insuffieient
+SYN-00310,6,7245.0,BALANCE INSUFFICIENT
+SYN-00310,7,7245.0,fund insuffieient
+SYN-00310,8,7245.0,4-Balance Insufficient
+SYN-00311,5,6606.0,Not Presented
+SYN-00312,4,28595.0,Not Present
+SYN-00312,6,28595.0,fund insufficient
+SYN-00312,7,28595.0,4-Balance Insufficient
+SYN-00313,6,12675.0,Not Presented
+SYN-00314,4,5672.0,not to present
+SYN-00314,7,5672.0,fund insufficient
+SYN-00315,7,1182.0,not to present
+SYN-00316,7,3564.0,fund insufficient
+SYN-00317,6,4511.0,fund insufficient
+SYN-00318,5,2865.0,BALANCE INSUFFICIENT
+SYN-00319,6,5273.0,Not Present
+SYN-00320,8,1262.0,Insufficient Funds
+SYN-00321,7,5635.0,Not Present
+SYN-00321,8,5635.0,BALANCE INSUFFICIENT
+SYN-00322,4,9861.0,99-Mandate before start date
+SYN-00322,6,9861.0,BALANCE INSUFFICIENT
+SYN-00322,8,9861.0,fund insufficient
+SYN-00323,4,13279.0,Exceeds arrangements
+SYN-00324,5,1525.0,BALANCE INSUFFICIENT
+SYN-00324,7,1525.0,Not Presented
+SYN-00326,6,2565.0,Insufficient Balance
+SYN-00327,7,12691.0,not to present
+SYN-00328,4,3205.0,not to present
+SYN-00330,4,8611.0,Not Presented
+SYN-00330,7,8611.0,not to present
+SYN-00330,8,8611.0,Not Present
+SYN-00331,8,3698.0,Not Present
+SYN-00334,6,4804.0,not to present
+SYN-00336,4,2973.0,4-Balance Insufficient
+SYN-00336,8,2973.0,Not Present
+SYN-00337,7,6211.0,4-Balance Insufficient
+SYN-00337,8,6211.0,fund insufficient
+SYN-00338,4,11738.0,fund insuffieient
+SYN-00338,6,11738.0,4-Balance Insufficient
+SYN-00338,7,11738.0,not to present
+SYN-00338,8,11738.0,BALANCE INSUFFICIENT
+SYN-00339,4,8095.0,Insufficient Funds
+SYN-00339,8,8095.0,Not Presented
+SYN-00341,6,2413.0,Insufficient Balance
+SYN-00341,7,2413.0,Insufficient Funds
+SYN-00341,8,2413.0,Not Present
+SYN-00342,8,9304.0,not to present
+SYN-00343,4,1496.0,a/c blocked / frozen / closed
+SYN-00343,6,1496.0,Not Presented
+SYN-00343,8,1496.0,fund insufficient
+SYN-00344,5,1796.0,Not Present
+SYN-00344,6,1796.0,BALANCE INSUFFICIENT
+SYN-00344,7,1796.0,Insufficient Funds
+SYN-00346,7,7837.0,Not Present
+SYN-00348,5,9416.0,not to present
+SYN-00349,4,6015.0,Not Presented
+SYN-00349,6,6015.0,4-Balance Insufficient
+SYN-00349,7,6015.0,BALANCE INSUFFICIENT
+SYN-00349,8,6015.0,Not Present
+SYN-00350,5,2597.0,A/C Blocked or Frozen
+SYN-00350,6,2597.0,not to present
+SYN-00351,4,12267.0,not to present
+SYN-00351,7,12267.0,4-Balance Insufficient
+SYN-00351,8,12267.0,A/C Blocked or Frozen
+SYN-00353,6,12507.0,Not Present
+SYN-00353,7,12507.0,Not Presented
+SYN-00354,5,9301.0,Not Presented
+SYN-00356,5,5193.0,4-Balance Insufficient
+SYN-00356,8,5193.0,fund insuffieient
+SYN-00357,4,5937.0,68-A/C Blocked or Frozen
+SYN-00357,6,5937.0,BALANCE INSUFFICIENT
+SYN-00360,8,7423.0,Not Present
+SYN-00361,7,7128.0,Not Presented
+SYN-00361,8,7128.0,BALANCE INSUFFICIENT
+SYN-00362,6,6105.0,Not Present
+SYN-00362,7,6105.0,Insufficient Funds
+SYN-00362,8,6105.0,4-Balance Insufficient
+SYN-00364,5,1794.0,Not Presented
+SYN-00365,4,3464.0,Insufficient Funds
+SYN-00365,5,3464.0,4-Balance Insufficient
+SYN-00365,6,3464.0,BALANCE INSUFFICIENT
+SYN-00365,8,3464.0,4-Balance Insufficient
+SYN-00368,5,4813.0,Insufficient Balance
+SYN-00369,4,4891.0,A/C Blocked or Frozen
+SYN-00369,5,4891.0,BALANCE INSUFFICIENT
+SYN-00369,8,4891.0,fund insufficient
+SYN-00370,5,11355.0,Not Present
+SYN-00370,6,11355.0,Insufficient Funds
+SYN-00371,4,6335.0,BALANCE INSUFFICIENT
+SYN-00371,6,6335.0,4-Balance Insufficient
+SYN-00372,4,9869.0,Insufficient Balance
+SYN-00372,5,9869.0,BALANCE INSUFFICIENT
+SYN-00372,6,9869.0,4-Balance Insufficient
+SYN-00373,5,13717.0,not to present
+SYN-00373,8,13717.0,Insufficient Funds
+SYN-00374,4,6448.0,fund insufficient
+SYN-00374,5,6448.0,Not Present
+SYN-00374,6,6448.0,Not Present
+SYN-00374,8,6448.0,BALANCE INSUFFICIENT
+SYN-00375,6,3153.0,Not Presented
+SYN-00375,7,3153.0,not to present
+SYN-00376,5,8495.0,4-Balance Insufficient
+SYN-00376,6,8495.0,not to present
+SYN-00376,8,8495.0,fund insuffieient
+SYN-00378,5,7888.0,fund insufficient
+SYN-00378,6,7888.0,Not Presented
+SYN-00378,7,7888.0,Not Present
+SYN-00378,8,7888.0,68-A/C Blocked or Frozen
+SYN-00379,6,1725.0,Not Present
+SYN-00379,8,1725.0,not to present
+SYN-00381,4,10021.0,Not Presented
+SYN-00381,5,10021.0,fund insuffieient
+SYN-00381,7,10021.0,4-Balance Insufficient
+SYN-00381,8,10021.0,4-Balance Insufficient
+SYN-00383,7,9649.0,fund insuffieient
+SYN-00385,5,8587.0,Insufficient Funds
+SYN-00385,8,8587.0,not to present
+SYN-00386,4,6773.0,Not Present
+SYN-00386,6,6773.0,Account Closed
+SYN-00386,8,6773.0,Not Presented
+SYN-00387,7,9863.0,Not Presented
+SYN-00387,8,9863.0,BALANCE INSUFFICIENT
+SYN-00388,6,3380.0,NACH not active
+SYN-00389,8,3545.0,Not Present
+SYN-00391,5,4164.0,A/C Blocked or Frozen
+SYN-00391,7,4164.0,Not Presented
+SYN-00394,5,19893.0,Exceeds arrangements
+SYN-00394,8,19893.0,Not Present
+SYN-00395,5,5901.0,Not Presented
+SYN-00396,4,14036.0,Insufficient Balance
+SYN-00396,5,14036.0,Not Presented
+SYN-00396,8,14036.0,4-Balance Insufficient
+SYN-00397,6,8435.0,not to present
+SYN-00397,8,8435.0,Not Present
+SYN-00398,4,3390.0,Insufficient Funds
+SYN-00398,7,3390.0,fund insuffieient
+SYN-00398,8,3390.0,not to present
+SYN-00401,4,2867.0,fund insuffieient
+SYN-00403,6,4684.0,BALANCE INSUFFICIENT
+SYN-00404,4,16085.0,4-Balance Insufficient
+SYN-00404,6,16085.0,Insufficient Balance
+SYN-00405,7,13907.0,fund insufficient
+SYN-00407,7,3099.0,Insufficient Balance
+SYN-00412,4,12059.0,not to present
+SYN-00415,6,5604.0,Insufficient Funds
+SYN-00416,4,9646.0,BALANCE INSUFFICIENT
+SYN-00416,5,9646.0,Not Presented
+SYN-00416,8,9646.0,fund insuffieient
+SYN-00417,5,7499.0,fund insufficient
+SYN-00419,8,6522.0,Not Presented
+SYN-00420,8,9368.0,NACH not active
+SYN-00422,4,14145.0,Not Present
+SYN-00422,6,14145.0,BALANCE INSUFFICIENT
+SYN-00425,4,9157.0,fund insuffieient
+SYN-00425,8,9157.0,not to present
+SYN-00426,8,14177.0,not to present
+SYN-00427,4,10636.0,BALANCE INSUFFICIENT
+SYN-00427,5,10636.0,fund insufficient
+SYN-00427,6,10636.0,fund insuffieient
+SYN-00427,7,10636.0,not to present
+SYN-00429,4,6888.0,NACH not active
+SYN-00431,8,6821.0,Insufficient Funds
+SYN-00432,6,8019.0,Not Presented
+SYN-00432,7,8019.0,not to present
+SYN-00434,7,3417.0,not to present
+SYN-00434,8,3417.0,BALANCE INSUFFICIENT
+SYN-00435,5,3827.0,Not Presented
+SYN-00435,6,3827.0,Not Present
+SYN-00435,8,3827.0,Not Presented
+SYN-00438,8,4680.0,4-Balance Insufficient
+SYN-00439,5,5009.0,68-A/C Blocked or Frozen
+SYN-00439,6,5009.0,Not Presented
+SYN-00440,4,3044.0,Not Present
+SYN-00442,4,9000.0,not to present
+SYN-00442,5,9000.0,Not Presented
+SYN-00442,6,9000.0,Insufficient Balance
+SYN-00442,7,9000.0,fund insufficient
+SYN-00443,4,13669.0,Mandate UMRN is not present |
+SYN-00443,6,13669.0,fund insuffieient
+SYN-00443,7,13669.0,Insufficient Funds
+SYN-00446,4,11125.0,Not Presented
+SYN-00446,5,11125.0,not to present
+SYN-00446,7,11125.0,Mandate UMRN is not present |
+SYN-00447,5,2652.0,Not Presented
+SYN-00448,6,2423.0,4-Balance Insufficient
+SYN-00449,7,13999.0,not to present
+SYN-00451,6,10355.0,Not Present
+SYN-00451,7,10355.0,not to present
+SYN-00452,4,23579.0,fund insuffieient
+SYN-00452,6,23579.0,fund insuffieient
+SYN-00452,7,23579.0,Not Present
+SYN-00452,8,23579.0,Insufficient Funds
+SYN-00453,4,4804.0,not to present
+SYN-00453,5,4804.0,fund insufficient
+SYN-00453,6,4804.0,Not Present
+SYN-00453,7,4804.0,Not Presented
+SYN-00453,8,4804.0,Not Presented
+SYN-00454,4,4860.0,not to present
+SYN-00454,6,4860.0,not to present
+SYN-00454,8,4860.0,not to present
+SYN-00455,5,4022.0,Not Presented
+SYN-00457,7,10752.0,not to present
+SYN-00457,8,10752.0,68-A/C Blocked or Frozen
+SYN-00458,5,5276.0,not to present
+SYN-00460,7,10029.0,Not Presented
+SYN-00460,8,10029.0,Not Present
+SYN-00463,5,3368.0,Not Presented
+SYN-00463,6,3368.0,4-Balance Insufficient
+SYN-00464,5,15160.0,Not Presented
+SYN-00467,5,5133.0,Not Presented
+SYN-00467,7,5133.0,Not Presented
+SYN-00470,7,12947.0,not to present
+SYN-00471,4,20373.0,Not Present
+SYN-00471,7,20373.0,not to present
+SYN-00474,4,6413.0,Insufficient Funds
+SYN-00474,5,6413.0,Insufficient Balance
+SYN-00474,8,6413.0,Not Present
+SYN-00475,7,10790.0,Not Present
+SYN-00476,5,7571.0,BALANCE INSUFFICIENT
+SYN-00476,7,7571.0,Not Present
+SYN-00476,8,7571.0,Not Present
+SYN-00477,8,3923.0,Not Present
+SYN-00478,4,5384.0,Insufficient Balance
+SYN-00478,6,5384.0,not to present
+SYN-00479,4,4291.0,Not Presented
+SYN-00479,5,4291.0,Not Present
+SYN-00479,6,4291.0,BALANCE INSUFFICIENT
+SYN-00479,7,4291.0,Insufficient Funds
+SYN-00480,8,12216.0,Insufficient Balance
+SYN-00481,5,9781.0,fund insufficient
+SYN-00481,6,9781.0,Not Present
+SYN-00481,8,9781.0,Insufficient Funds
+SYN-00483,4,19904.0,BALANCE INSUFFICIENT
+SYN-00483,5,19904.0,Not Presented
+SYN-00484,7,4244.0,fund insuffieient
+SYN-00484,8,4244.0,4-Balance Insufficient
+SYN-00486,5,14200.0,Not Presented
+SYN-00487,7,6923.0,fund insufficient
+SYN-00489,4,16493.0,BALANCE INSUFFICIENT
+SYN-00489,5,16493.0,Not Present
+SYN-00489,7,16493.0,Not Present
+SYN-00490,4,4485.0,fund insufficient
+SYN-00490,5,4485.0,Not Present
+SYN-00490,8,4485.0,99-Mandate before start date
+SYN-00491,4,5736.0,Insufficient Funds
+SYN-00491,8,5736.0,fund insuffieient
+SYN-00492,4,4135.0,not to present
+SYN-00492,5,4135.0,Insufficient Funds
+SYN-00493,7,3576.0,BALANCE INSUFFICIENT
+SYN-00494,7,6888.0,4-Balance Insufficient
+SYN-00495,5,3208.0,Not Present
+SYN-00495,7,3208.0,Insufficient Funds
+SYN-00495,8,3208.0,Mandate UMRN is not present |
+SYN-00496,5,13972.0,not to present
+SYN-00497,5,1020.0,Insufficient Funds
+SYN-00497,6,1020.0,fund insuffieient
+SYN-00500,4,7560.0,not to present
+SYN-00500,6,7560.0,Insufficient Funds
+SYN-00501,4,7783.0,Not Present
+SYN-00501,5,7783.0,Insufficient Balance
+SYN-00501,6,7783.0,fund insufficient
+SYN-00501,8,7783.0,fund insuffieient
+SYN-00503,6,4191.0,fund insufficient
+SYN-00503,8,4191.0,4-Balance Insufficient
+SYN-00506,5,3720.0,Insufficient Balance
+SYN-00506,6,3720.0,Not Presented
+SYN-00506,7,3720.0,Not Presented
+SYN-00506,8,3720.0,Not Present
+SYN-00507,5,10907.0,not to present
+SYN-00507,6,10907.0,Not Present
+SYN-00507,8,10907.0,not to present
+SYN-00508,8,5297.0,Not Presented
+SYN-00509,4,5110.0,Not Presented
+SYN-00509,7,5110.0,Insufficient Balance
+SYN-00511,4,8499.0,Not Presented
+SYN-00511,6,8499.0,Insufficient Balance
+SYN-00512,4,7011.0,Not Present
+SYN-00512,6,7011.0,Not Presented
+SYN-00512,7,7011.0,Not Present
+SYN-00513,6,3088.0,Not Present
+SYN-00513,7,3088.0,not to present
+SYN-00515,7,5165.0,not to present
+SYN-00516,4,6771.0,Insufficient Balance
+SYN-00516,5,6771.0,Not Present
+SYN-00516,8,6771.0,fund insuffieient
+SYN-00517,7,8756.0,not to present
+SYN-00518,5,5011.0,Not Presented
+SYN-00518,6,5011.0,NACH not active
+SYN-00518,7,5011.0,Insufficient Funds
+SYN-00519,4,2476.0,fund insufficient
+SYN-00519,5,2476.0,not to present
+SYN-00519,6,2476.0,fund insufficient
+SYN-00520,4,6226.0,not to present
+SYN-00520,8,6226.0,Not Presented
+SYN-00522,4,4317.0,Not Present
+SYN-00522,6,4317.0,BALANCE INSUFFICIENT
+SYN-00522,8,4317.0,Insufficient Funds
+SYN-00524,5,2957.0,Not Presented
+SYN-00525,4,6515.0,Not Presented
+SYN-00525,6,6515.0,fund insufficient
+SYN-00525,8,6515.0,Not Present
+SYN-00526,4,8245.0,fund insuffieient
+SYN-00526,5,8245.0,Insufficient Balance
+SYN-00527,4,12663.0,Not Present
+SYN-00528,7,2627.0,not to present
+SYN-00529,4,8920.0,fund insuffieient
+SYN-00529,7,8920.0,Insufficient Funds
+SYN-00530,4,7735.0,not to present
+SYN-00530,8,7735.0,Insufficient Funds
+SYN-00531,5,28195.0,Not Present
+SYN-00533,4,16501.0,BALANCE INSUFFICIENT
+SYN-00533,7,16501.0,4-Balance Insufficient
+SYN-00533,8,16501.0,Insufficient Balance
+SYN-00535,7,4112.0,fund insufficient
+SYN-00537,5,6332.0,Not Present
+SYN-00537,6,6332.0,4-Balance Insufficient
+SYN-00539,6,2349.0,Not Presented
+SYN-00541,4,15320.0,4-Balance Insufficient
+SYN-00541,8,15320.0,fund insufficient
+SYN-00542,5,10909.0,not to present
+SYN-00543,7,3121.0,4-Balance Insufficient
+SYN-00544,4,7887.0,Not Presented
+SYN-00544,5,7887.0,Not Present
+SYN-00547,6,25413.0,Not Presented
+SYN-00548,8,11392.0,not to present
+SYN-00549,4,5517.0,Not Present
+SYN-00549,6,5517.0,not to present
+SYN-00549,8,5517.0,fund insuffieient
+SYN-00550,5,2580.0,fund insufficient
+SYN-00551,4,5059.0,4-Balance Insufficient
+SYN-00551,7,5059.0,not to present
+SYN-00552,7,5011.0,Not Presented
+SYN-00553,4,12163.0,Insufficient Funds
+SYN-00553,5,12163.0,fund insufficient
+SYN-00553,6,12163.0,fund insufficient
+SYN-00553,7,12163.0,Not Presented
+SYN-00553,8,12163.0,Insufficient Funds
+SYN-00554,5,1218.0,Insufficient Balance
+SYN-00556,5,7486.0,68-A/C Blocked or Frozen
+SYN-00557,6,11242.0,Not Presented
+SYN-00561,7,3643.0,BALANCE INSUFFICIENT
+SYN-00562,4,4908.0,not to present
+SYN-00563,6,5313.0,not to present
+SYN-00564,4,14547.0,BALANCE INSUFFICIENT
+SYN-00564,7,14547.0,not to present
+SYN-00565,5,2233.0,not to present
+SYN-00565,6,2233.0,not to present
+SYN-00566,7,6591.0,BALANCE INSUFFICIENT
+SYN-00569,6,9088.0,4-Balance Insufficient
+SYN-00571,7,11869.0,Insufficient Balance
+SYN-00572,5,14595.0,Insufficient Funds
+SYN-00572,8,14595.0,Insufficient Balance
+SYN-00573,6,7975.0,Not Present
+SYN-00574,6,10397.0,Insufficient Balance
+SYN-00574,7,10397.0,Not Presented
+SYN-00574,8,10397.0,Not Presented
+SYN-00575,6,3539.0,Not Presented
+SYN-00576,4,7684.0,Insufficient Funds
+SYN-00576,5,7684.0,Exhausted
+SYN-00576,6,7684.0,Not Present
+SYN-00576,7,7684.0,Not Presented
+SYN-00576,8,7684.0,not to present
+SYN-00577,5,5021.0,fund insuffieient
+SYN-00577,6,5021.0,4-Balance Insufficient
+SYN-00577,8,5021.0,Insufficient Balance
+SYN-00578,4,15192.0,Not Presented
+SYN-00578,6,15192.0,not to present
+SYN-00578,7,15192.0,not to present
+SYN-00579,8,5523.0,Not Presented
+SYN-00584,8,4412.0,BALANCE INSUFFICIENT
+SYN-00585,4,2769.0,Insufficient Balance
+SYN-00585,6,2769.0,not to present
+SYN-00585,7,2769.0,Not Presented
+SYN-00586,7,5077.0,BALANCE INSUFFICIENT
+SYN-00589,4,8903.0,fund insuffieient
+SYN-00589,5,8903.0,Not Present
+SYN-00589,8,8903.0,not to present
+SYN-00591,4,3644.0,not to present
+SYN-00591,6,3644.0,Insufficient Balance
+SYN-00592,5,4644.0,Not Present
+SYN-00592,7,4644.0,Not Present
+SYN-00592,8,4644.0,4-Balance Insufficient
+SYN-00596,6,3501.0,not to present
+SYN-00597,4,18772.0,a/c blocked / frozen / closed
+SYN-00597,8,18772.0,not to present
+SYN-00598,6,3965.0,Not Presented
+SYN-00602,5,18027.0,Insufficient Balance
+SYN-00602,6,18027.0,Not Presented
+SYN-00602,7,18027.0,BALANCE INSUFFICIENT
+SYN-00602,8,18027.0,Insufficient Funds
+SYN-00604,7,13357.0,fund insufficient
+SYN-00605,4,11043.0,Mandate UMRN is not present |
+SYN-00605,6,11043.0,fund insuffieient
+SYN-00605,8,11043.0,Not Presented
+SYN-00606,4,5514.0,fund insufficient
+SYN-00607,4,12797.0,Not Presented
+SYN-00611,4,4315.0,fund insufficient
+SYN-00611,6,4315.0,Insufficient Funds
+SYN-00611,7,4315.0,not to present
+SYN-00611,8,4315.0,fund insuffieient
+SYN-00612,6,12181.0,Insufficient Funds
+SYN-00614,5,3696.0,Insufficient Funds
+SYN-00616,5,3260.0,Not Presented
+SYN-00616,7,3260.0,Not Present
+SYN-00617,6,5176.0,not to present
+SYN-00618,6,5958.0,fund insuffieient
+SYN-00618,7,5958.0,not to present
+SYN-00619,4,11861.0,Insufficient Balance
+SYN-00619,6,11861.0,BALANCE INSUFFICIENT
+SYN-00620,6,5138.0,Insufficient Funds
+SYN-00621,4,7734.0,Account Closed
+SYN-00621,5,7734.0,Not Present
+SYN-00622,5,10834.0,Not Present
+SYN-00627,5,3475.0,Insufficient Balance
+SYN-00627,6,3475.0,a/c blocked / frozen / closed
+SYN-00627,8,3475.0,Not Presented
+SYN-00628,8,2933.0,BALANCE INSUFFICIENT
+SYN-00630,6,5678.0,fund insuffieient
+SYN-00630,8,5678.0,Not Present
+SYN-00631,5,6724.0,Not Present
+SYN-00631,7,6724.0,Not Present
+SYN-00632,7,21139.0,not to present
+SYN-00634,6,2791.0,NACH not active
+SYN-00635,6,4664.0,fund insufficient
+SYN-00636,4,6229.0,fund insufficient
+SYN-00636,6,6229.0,fund insuffieient
+SYN-00639,4,2207.0,BALANCE INSUFFICIENT
+SYN-00639,7,2207.0,fund insuffieient
+SYN-00641,5,7347.0,Not Presented
+SYN-00641,8,7347.0,Not Present
+SYN-00642,5,9548.0,NACH not active
+SYN-00642,7,9548.0,BALANCE INSUFFICIENT
+SYN-00642,8,9548.0,not to present
+SYN-00643,5,3791.0,Not Present
+SYN-00644,4,9792.0,4-Balance Insufficient
+SYN-00645,5,10617.0,fund insufficient
+SYN-00645,6,10617.0,4-Balance Insufficient
+SYN-00646,5,11837.0,not to present
+SYN-00650,8,5699.0,BALANCE INSUFFICIENT
+SYN-00652,4,2149.0,4-Balance Insufficient
+SYN-00652,5,2149.0,Insufficient Balance
+SYN-00652,7,2149.0,fund insufficient
+SYN-00655,6,8685.0,fund insufficient
+SYN-00655,7,8685.0,BALANCE INSUFFICIENT
+SYN-00658,5,11637.0,Insufficient Balance
+SYN-00658,7,11637.0,Insufficient Funds
+SYN-00661,7,12504.0,fund insufficient
+SYN-00664,4,2860.0,a/c blocked / frozen / closed
+SYN-00665,8,5217.0,fund insuffieient
+SYN-00667,6,19397.0,Insufficient Funds
+SYN-00668,6,14823.0,Insufficient Balance
+SYN-00670,4,2897.0,Insufficient Funds
+SYN-00670,5,2897.0,4-Balance Insufficient
+SYN-00670,6,2897.0,4-Balance Insufficient
+SYN-00670,7,2897.0,Insufficient Funds
+SYN-00670,8,2897.0,4-Balance Insufficient
+SYN-00671,5,8419.0,Not Present
+SYN-00671,6,8419.0,Not Present
+SYN-00672,4,15515.0,4-Balance Insufficient
+SYN-00672,6,15515.0,Insufficient Balance
+SYN-00674,4,4304.0,4-Balance Insufficient
+SYN-00674,7,4304.0,Not Presented
+SYN-00675,7,6488.0,Insufficient Balance
+SYN-00675,8,6488.0,not to present
+SYN-00676,4,4897.0,BALANCE INSUFFICIENT
+SYN-00676,5,4897.0,not to present
+SYN-00676,6,4897.0,Not Present
+SYN-00676,7,4897.0,fund insufficient
+SYN-00677,6,10004.0,Not Presented
+SYN-00677,8,10004.0,Insufficient Balance
+SYN-00678,4,7909.0,BALANCE INSUFFICIENT
+SYN-00678,6,7909.0,BALANCE INSUFFICIENT
+SYN-00678,7,7909.0,Insufficient Funds
+SYN-00679,8,4258.0,Not Present
+SYN-00680,5,7667.0,Not Presented
+SYN-00680,8,7667.0,Insufficient Funds
+SYN-00681,5,10598.0,not to present
+SYN-00681,6,10598.0,Not Presented
+SYN-00682,5,5299.0,fund insuffieient
+SYN-00682,6,5299.0,BALANCE INSUFFICIENT
+SYN-00682,8,5299.0,Insufficient Funds
+SYN-00683,4,7108.0,99-Mandate before start date
+SYN-00683,6,7108.0,Not Present
+SYN-00685,5,10511.0,not to present
+SYN-00686,5,7263.0,Not Present
+SYN-00687,4,5200.0,Not Present
+SYN-00687,5,5200.0,not to present
+SYN-00687,6,5200.0,Insufficient Balance
+SYN-00687,7,5200.0,Insufficient Funds
+SYN-00687,8,5200.0,Insufficient Balance
+SYN-00688,4,3932.0,not to present
+SYN-00688,5,3932.0,not to present
+SYN-00688,6,3932.0,fund insufficient
+SYN-00688,8,3932.0,4-Balance Insufficient
+SYN-00689,8,6779.0,not to present
+SYN-00690,7,4324.0,fund insuffieient
+SYN-00692,6,3363.0,Insufficient Balance
+SYN-00692,8,3363.0,Not Presented
+SYN-00694,5,4131.0,4-Balance Insufficient
+SYN-00695,4,1771.0,Not Presented
+SYN-00695,8,1771.0,BALANCE INSUFFICIENT
+SYN-00697,4,18819.0,not to present
+SYN-00697,7,18819.0,not to present
+SYN-00700,4,9082.0,Exhausted
+SYN-00700,5,9082.0,fund insuffieient
+SYN-00700,7,9082.0,fund insufficient
+SYN-00700,8,9082.0,BALANCE INSUFFICIENT
+SYN-00701,4,4051.0,not to present
+SYN-00704,4,10539.0,fund insufficient
+SYN-00707,8,4109.0,Not Present
+SYN-00708,4,7120.0,fund insufficient
+SYN-00708,5,7120.0,Not Present
+SYN-00708,8,7120.0,not to present
+SYN-00709,8,12013.0,Not Present
+SYN-00711,7,1506.0,fund insuffieient
+SYN-00712,8,5576.0,Not Present
+SYN-00713,4,16323.0,Not Presented
+SYN-00713,5,16323.0,Insufficient Funds
+SYN-00713,7,16323.0,A/C Blocked or Frozen
+SYN-00713,8,16323.0,Not Present
+SYN-00714,5,9963.0,fund insuffieient
+SYN-00717,5,3159.0,Not Present
+SYN-00719,5,2944.0,Not Present
+SYN-00720,6,8293.0,fund insufficient
+SYN-00720,7,8293.0,Not Present
+SYN-00721,4,20336.0,Insufficient Balance
+SYN-00721,6,20336.0,Status Awaited
+SYN-00721,7,20336.0,Insufficient Funds
+SYN-00721,8,20336.0,Insufficient Balance
+SYN-00725,4,3125.0,Not Presented
+SYN-00727,4,4335.0,Not Present
+SYN-00727,6,4335.0,not to present
+SYN-00727,7,4335.0,Not Present
+SYN-00727,8,4335.0,Insufficient Funds
+SYN-00729,5,4625.0,Not Present
+SYN-00730,5,14051.0,fund insuffieient
+SYN-00731,7,9344.0,Insufficient Balance
+SYN-00732,5,11773.0,Not Present
+SYN-00732,8,11773.0,BALANCE INSUFFICIENT
+SYN-00733,5,10032.0,not to present
+SYN-00735,8,8323.0,Not Present
+SYN-00736,8,17800.0,Not Presented
+SYN-00737,5,11597.0,Insufficient Balance
+SYN-00737,7,11597.0,fund insuffieient
+SYN-00737,8,11597.0,Not Present
+SYN-00740,4,2308.0,Insufficient Funds
+SYN-00740,6,2308.0,Not Present
+SYN-00741,4,3025.0,Not Present
+SYN-00741,8,3025.0,BALANCE INSUFFICIENT
+SYN-00742,8,5033.0,Not Presented
+SYN-00744,4,2150.0,Not Present
+SYN-00744,6,2150.0,4-Balance Insufficient
+SYN-00745,4,15152.0,not to present
+SYN-00746,4,17236.0,Insufficient Balance
+SYN-00746,5,17236.0,4-Balance Insufficient
+SYN-00746,8,17236.0,Insufficient Funds
+SYN-00747,6,5224.0,BALANCE INSUFFICIENT
+SYN-00747,8,5224.0,Not Presented
+SYN-00750,7,3220.0,BALANCE INSUFFICIENT
+SYN-00751,7,14805.0,Insufficient Balance
+SYN-00751,8,14805.0,not to present
+SYN-00753,5,6171.0,Status Awaited
+SYN-00753,6,6171.0,BALANCE INSUFFICIENT
+SYN-00753,7,6171.0,4-Balance Insufficient
+SYN-00753,8,6171.0,4-Balance Insufficient
+SYN-00754,4,8639.0,not to present
+SYN-00754,6,8639.0,Not Present
+SYN-00755,5,1667.0,not to present
+SYN-00755,8,1667.0,Not Present
+SYN-00758,8,21383.0,Not Present
+SYN-00759,4,1590.0,not to present
+SYN-00760,4,9749.0,Insufficient Balance
+SYN-00760,8,9749.0,Insufficient Balance
+SYN-00762,4,2345.0,not to present
+SYN-00762,6,2345.0,Not Present
+SYN-00762,8,2345.0,4-Balance Insufficient
+SYN-00763,5,20731.0,fund insuffieient
+SYN-00763,6,20731.0,not to present
+SYN-00763,8,20731.0,Not Presented
+SYN-00764,4,11955.0,Insufficient Balance
+SYN-00766,6,4553.0,not to present
+SYN-00766,7,4553.0,Not Present
+SYN-00769,4,3135.0,Insufficient Funds
+SYN-00769,5,3135.0,BALANCE INSUFFICIENT
+SYN-00769,6,3135.0,Mandate UMRN is not present |
+SYN-00769,8,3135.0,fund insuffieient
+SYN-00770,5,2591.0,Insufficient Balance
+SYN-00770,6,2591.0,Not Present
+SYN-00770,7,2591.0,Insufficient Funds
+SYN-00771,6,4929.0,Not Presented
+SYN-00772,7,2692.0,Not Presented
+SYN-00773,4,9107.0,BALANCE INSUFFICIENT
+SYN-00773,5,9107.0,Not Presented
+SYN-00773,8,9107.0,not to present
+SYN-00774,8,6651.0,Not Presented
+SYN-00775,5,8931.0,Not Present
+SYN-00775,7,8931.0,Insufficient Balance
+SYN-00775,8,8931.0,fund insuffieient
+SYN-00777,5,11572.0,BALANCE INSUFFICIENT
+SYN-00777,7,11572.0,Insufficient Balance
+SYN-00778,4,34059.0,not to present
+SYN-00778,6,34059.0,Insufficient Funds
+SYN-00779,4,3483.0,4-Balance Insufficient
+SYN-00781,6,6947.0,NACH not active
+SYN-00782,4,10007.0,not to present
+SYN-00782,6,10007.0,Not Present
+SYN-00782,7,10007.0,not to present
+SYN-00783,4,4833.0,fund insufficient
+SYN-00783,6,4833.0,4-Balance Insufficient
+SYN-00784,8,4433.0,BALANCE INSUFFICIENT
+SYN-00785,4,22872.0,not to present
+SYN-00786,6,2934.0,not to present
+SYN-00789,4,6280.0,Not Presented
+SYN-00789,5,6280.0,Not Present
+SYN-00793,4,2199.0,fund insufficient
+SYN-00793,6,2199.0,Insufficient Funds
+SYN-00793,8,2199.0,Not Presented
+SYN-00795,7,3423.0,Not Presented
+SYN-00795,8,3423.0,fund insufficient
+SYN-00796,5,2477.0,Insufficient Funds
+SYN-00796,6,2477.0,Insufficient Funds
+SYN-00796,8,2477.0,fund insufficient
+SYN-00797,7,4765.0,Insufficient Balance
+SYN-00798,5,1166.0,Insufficient Funds
+SYN-00798,7,1166.0,Not Present
+SYN-00798,8,1166.0,BALANCE INSUFFICIENT
+SYN-00799,5,3500.0,Insufficient Balance
+SYN-00799,6,3500.0,4-Balance Insufficient
+SYN-00801,7,17512.0,Not Presented
+SYN-00802,4,10411.0,Not Present
+SYN-00803,5,2071.0,Insufficient Balance
+SYN-00803,6,2071.0,Not Present
+SYN-00804,6,6701.0,BALANCE INSUFFICIENT
+SYN-00804,8,6701.0,fund insufficient
+SYN-00805,5,3497.0,Not Presented
+SYN-00805,6,3497.0,Not Present
+SYN-00805,7,3497.0,BALANCE INSUFFICIENT
+SYN-00805,8,3497.0,BALANCE INSUFFICIENT
+SYN-00809,6,3355.0,Not Presented

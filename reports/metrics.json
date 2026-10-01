@@ -1,0 +1,32 @@
+{
+  "portfolio": {
+    "loans_total": 811,
+    "existing_npa_excluded": 48,
+    "loans_modelled": 763,
+    "new_npa": 20
+  },
+  "model_1_screening": {
+    "auc": 0.724,
+    "ks": 0.374,
+    "n_loans": 763,
+    "n_defaults": 20,
+    "capture_at_10pct_flagged": 0.25,
+    "capture_at_20pct_flagged": 0.45,
+    "capture_at_30pct_flagged": 0.65
+  },
+  "model_2_early_warning": {
+    "auc": 0.833,
+    "ks": 0.66,
+    "n_loans": 763,
+    "n_defaults": 20,
+    "capture_at_10pct_flagged": 0.35,
+    "capture_at_20pct_flagged": 0.85,
+    "capture_at_30pct_flagged": 0.85
+  },
+  "example_borrower": {
+    "screening_score": 61.6,
+    "screening_band": "High",
+    "early_warning_score": 83.1,
+    "early_warning_band": "Very High"
+  }
+}

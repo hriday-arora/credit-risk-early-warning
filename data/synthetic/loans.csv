@@ -1,0 +1,812 @@
+loan_id,product,profession,state,end_use,ltv,foir,income,tenure,roi,mob,cibil,exposure,dpd_apr,dpd_aug
+SYN-00000,LAP,Salaried,Uttar Pradesh,Business Expansion,0.478,0.641,69300.0,240,14.43,18,683.0,261600.0,0,0
+SYN-00001,LAP,Salaried,Haryana,Working Capital,0.64,0.405,103000.0,120,10.99,3,763.0,311200.0,0,0
+SYN-00002,HL,Self-Employed,Uttarakhand,Construction,0.706,0.387,63400.0,84,13.98,11,683.0,271800.0,0,27
+SYN-00003,HL,Salaried,Delhi,Construction,0.632,0.466,47600.0,84,13.09,24,734.0,463600.0,0,0
+SYN-00004,PL,Salaried,Uttar Pradesh,Home Purchase,0.428,0.193,90000.0,240,13.37,11,778.0,827600.0,0,0
+SYN-00005,HL,Self-Employed,Uttar Pradesh,Home Purchase,0.411,0.283,46000.0,120,11.3,7,831.0,955300.0,0,0
+SYN-00006,LAP,Salaried,Haryana,Business Expansion,0.356,0.592,92300.0,180,11.95,5,724.0,569300.0,0,5
+SYN-00007,HL,Salaried,Uttar Pradesh,Home Purchase,0.455,0.42,49200.0,60,13.38,27,722.0,1290600.0,0,25
+SYN-00008,PL,Salaried,Delhi,Home Purchase,0.511,0.638,110700.0,240,13.07,24,684.0,370200.0,0,0
+SYN-00009,HL,Self-Employed,Uttarakhand,Home Purchase,0.476,0.398,67200.0,120,11.31,4,781.0,195600.0,0,0
+SYN-00010,HL,Self-Employed,Uttar Pradesh,Home Purchase,0.609,0.49,110000.0,120,14.73,27,750.0,749100.0,0,0
+SYN-00011,PL,Salaried,Uttar Pradesh,Business Expansion,0.657,0.553,41500.0,84,12.13,25,725.0,176400.0,0,0
+SYN-00012,PL,Self-Employed,Haryana,Business Expansion,0.421,0.186,53600.0,60,12.52,12,838.0,303300.0,0,0
+SYN-00013,HL,Self-Employed,Haryana,Construction,0.486,0.527,79300.0,240,13.83,20,765.0,573800.0,59,46
+SYN-00014,LAP,Self-Employed,Haryana,Home Purchase,0.702,0.468,119300.0,240,14.68,9,710.0,420300.0,0,8
+SYN-00015,LAP,Salaried,Uttar Pradesh,Construction,0.541,0.556,165800.0,84,14.11,9,756.0,402100.0,0,19
+SYN-00016,PL,Salaried,Rajasthan,Construction,0.475,0.565,72300.0,240,14.9,22,748.0,245100.0,0,0
+SYN-00017,HL,Self-Employed,Uttar Pradesh,Business Expansion,0.43,0.289,180500.0,60,12.58,8,736.0,440000.0,0,12
+SYN-00018,LAP,Salaried,Haryana,Business Expansion,0.54,0.618,59800.0,60,11.78,12,-1.0,730800.0,0,19
+SYN-00019,LAP,Self-Employed,Haryana,Construction,0.501,0.421,120400.0,60,13.85,12,758.0,446900.0,0,0
+SYN-00020,LAP,Self-Employed,Haryana,Construction,0.546,0.35,48600.0,84,14.82,7,758.0,292100.0,0,21
+SYN-00021,LAP,Salaried,Delhi,Working Capital,0.763,0.436,93300.0,60,14.19,25,795.0,237100.0,0,0
+SYN-00022,LAP,Self-Employed,Uttar Pradesh,Business Expansion,0.596,0.491,23100.0,84,14.94,21,775.0,295100.0,38,49
+SYN-00023,HL,Self-Employed,Delhi,Construction,0.57,0.596,44700.0,60,12.19,26,753.0,538300.0,0,15
+SYN-00024,PL,Self-Employed,Delhi,Construction,0.272,0.463,93400.0,180,12.63,17,750.0,525300.0,0,20
+SYN-00025,PL,Salaried,Haryana,Home Purchase,0.421,0.453,41700.0,180,15.15,7,820.0,296500.0,0,0
+SYN-00026,LAP,Self-Employed,Uttarakhand,Working Capital,0.679,0.567,84900.0,120,12.51,10,765.0,146500.0,0,9
+SYN-00027,HL,Salaried,Rajasthan,Home Purchase,0.57,0.578,106800.0,84,12.64,12,713.0,545800.0,0,0
+SYN-00028,HL,Self-Employed,Uttar Pradesh,Home Purchase,0.1,0.549,56500.0,180,14.77,28,726.0,282400.0,0,0
+SYN-00029,LAP,Self-Employed,Haryana,Working Capital,0.607,0.613,45700.0,84,13.41,9,734.0,624400.0,0,27
+SYN-00030,HL,Self-Employed,Rajasthan,Business Expansion,0.85,0.618,49800.0,180,14.03,21,681.0,303100.0,297,417
+SYN-00031,PL,Salaried,Delhi,Home Purchase,0.236,0.446,48900.0,120,14.7,6,693.0,270000.0,0,0
+SYN-00032,HL,Salaried,Uttar Pradesh,Home Purchase,0.652,0.548,72800.0,84,13.55,28,689.0,477600.0,0,12
+SYN-00033,LAP,Salaried,Uttar Pradesh,Home Purchase,0.119,0.4,81700.0,60,12.47,20,729.0,1438100.0,0,0
+SYN-00034,PL,Salaried,Haryana,Business Expansion,0.65,0.484,60700.0,180,12.85,14,675.0,643400.0,0,0
+SYN-00035,HL,Salaried,Delhi,Home Purchase,0.567,0.679,141900.0,240,16.45,12,672.0,473600.0,43,27
+SYN-00036,HL,Self-Employed,Uttar Pradesh,Working Capital,0.211,0.606,53400.0,120,13.38,12,773.0,529400.0,0,0
+SYN-00037,LAP,Salaried,Haryana,Working Capital,0.503,0.407,146300.0,240,14.23,9,762.0,184300.0,0,14
+SYN-00038,LAP,Self-Employed,Uttarakhand,Construction,0.589,0.363,48900.0,240,13.73,19,778.0,252400.0,0,0
+SYN-00039,HL,Self-Employed,Rajasthan,Business Expansion,0.583,0.629,71700.0,60,13.5,26,662.0,126100.0,0,16
+SYN-00040,LAP,Salaried,Delhi,Home Purchase,0.615,0.567,117400.0,180,13.58,9,693.0,1050700.0,0,0
+SYN-00041,PL,Self-Employed,Haryana,Home Purchase,0.483,0.509,116500.0,84,15.38,23,747.0,949500.0,0,0
+SYN-00042,LAP,Self-Employed,Haryana,Business Expansion,0.237,0.385,63800.0,120,14.43,18,-1.0,538400.0,0,0
+SYN-00043,HL,Salaried,Rajasthan,Home Purchase,0.597,0.495,92200.0,60,11.81,23,699.0,473300.0,0,9
+SYN-00044,HL,Salaried,Rajasthan,Home Purchase,0.717,0.454,87600.0,240,14.14,23,743.0,203700.0,0,0
+SYN-00045,HL,Self-Employed,Uttar Pradesh,Home Purchase,0.649,0.395,56400.0,180,13.55,4,-1.0,396500.0,0,24
+SYN-00046,HL,Self-Employed,Uttarakhand,Home Purchase,0.314,0.506,90000.0,84,13.16,3,709.0,1084000.0,0,0
+SYN-00047,HL,Self-Employed,Uttar Pradesh,Construction,0.332,0.488,166100.0,84,13.94,27,701.0,472500.0,0,18
+SYN-00048,LAP,Self-Employed,Uttar Pradesh,Business Expansion,0.439,0.446,85600.0,120,12.69,7,708.0,333600.0,0,0
+SYN-00049,HL,Self-Employed,Haryana,Working Capital,0.313,0.544,93900.0,180,13.09,18,742.0,183700.0,0,0
+SYN-00050,PL,Salaried,Haryana,Business Expansion,0.523,0.593,96700.0,240,12.93,23,723.0,882200.0,0,0
+SYN-00051,HL,Self-Employed,Haryana,Working Capital,0.585,0.579,36000.0,84,13.51,16,716.0,427200.0,0,0
+SYN-00052,HL,Salaried,Delhi,Construction,0.241,0.35,101100.0,120,12.26,3,726.0,183800.0,0,0
+SYN-00053,LAP,Self-Employed,Haryana,Working Capital,0.574,0.51,47500.0,120,12.23,3,708.0,278700.0,0,23
+SYN-00054,PL,Salaried,Haryana,Construction,0.544,0.434,58200.0,84,14.7,21,750.0,233600.0,0,12
+SYN-00055,HL,Salaried,Uttar Pradesh,Home Purchase,0.396,0.294,203600.0,120,13.48,27,755.0,414200.0,0,0
+SYN-00056,HL,Self-Employed,Haryana,Working Capital,0.463,0.504,66700.0,60,15.07,12,724.0,490700.0,0,0
+SYN-00057,HL,Salaried,Haryana,Home Purchase,0.356,0.539,46500.0,60,14.54,17,680.0,344000.0,47,18
+SYN-00058,LAP,Self-Employed,Uttar Pradesh,Home Purchase,0.408,0.666,131700.0,120,12.26,28,773.0,652500.0,0,11
+SYN-00059,LAP,Salaried,Uttar Pradesh,Home Purchase,0.559,0.644,44200.0,240,16.03,25,746.0,460200.0,0,0
+SYN-00060,HL,Self-Employed,Uttarakhand,Construction,0.419,0.437,68400.0,84,11.58,17,794.0,752500.0,0,0
+SYN-00061,HL,Self-Employed,Rajasthan,Construction,0.525,0.458,131800.0,84,13.05,20,770.0,370100.0,0,19
+SYN-00062,LAP,Salaried,Haryana,Construction,0.539,0.475,73600.0,180,14.35,28,710.0,2028200.0,0,0
+SYN-00063,PL,Self-Employed,Rajasthan,Working Capital,0.503,0.379,34600.0,240,12.73,24,745.0,333600.0,0,0
+SYN-00064,LAP,Salaried,Rajasthan,Home Purchase,0.577,0.312,88200.0,120,14.78,14,732.0,281600.0,0,0
+SYN-00065,LAP,Self-Employed,Delhi,Construction,0.668,0.402,57400.0,60,14.72,21,751.0,264800.0,0,0
+SYN-00066,HL,Self-Employed,Uttarakhand,Home Purchase,0.468,0.428,150400.0,120,14.49,11,784.0,398100.0,0,0
+SYN-00067,HL,Self-Employed,Uttarakhand,Working Capital,0.51,0.216,57800.0,120,14.02,27,-1.0,187300.0,0,7
+SYN-00068,HL,Salaried,Uttarakhand,Home Purchase,0.529,0.438,109600.0,120,15.49,5,706.0,512600.0,0,14
+SYN-00069,LAP,Salaried,Uttarakhand,Home Purchase,0.411,0.416,165100.0,84,13.24,9,758.0,170600.0,0,0
+SYN-00070,PL,Self-Employed,Haryana,Construction,0.486,0.365,55200.0,60,11.62,12,833.0,479700.0,0,1
+SYN-00071,PL,Self-Employed,Rajasthan,Business Expansion,0.365,0.327,73400.0,84,14.7,8,750.0,225100.0,0,0
+SYN-00072,PL,Salaried,Uttar Pradesh,Business Expansion,0.491,0.37,93800.0,180,11.24,19,744.0,365600.0,0,0
+SYN-00073,PL,Salaried,Delhi,Business Expansion,0.533,0.647,47800.0,84,12.47,22,731.0,598600.0,0,0
+SYN-00074,PL,Salaried,Uttar Pradesh,Business Expansion,0.472,0.523,81700.0,84,14.18,27,754.0,1400100.0,0,11
+SYN-00075,HL,Self-Employed,Haryana,Construction,0.502,0.428,62500.0,120,15.68,16,679.0,258100.0,0,0
+SYN-00076,HL,Salaried,Uttar Pradesh,Home Purchase,0.413,0.422,67800.0,180,13.35,19,752.0,410400.0,0,17
+SYN-00077,HL,Salaried,Uttar Pradesh,Home Purchase,0.312,0.455,73800.0,60,14.63,19,730.0,308100.0,0,29
+SYN-00078,LAP,Self-Employed,Uttar Pradesh,Home Purchase,0.583,0.404,71800.0,120,12.0,3,618.0,286400.0,0,0
+SYN-00079,HL,Salaried,Haryana,Home Purchase,0.509,0.358,80700.0,120,12.75,22,741.0,309400.0,0,0
+SYN-00080,PL,Self-Employed,Haryana,Construction,0.629,0.574,53900.0,84,11.99,3,717.0,668000.0,0,0
+SYN-00081,LAP,Salaried,Uttar Pradesh,Construction,0.397,0.375,60100.0,240,13.75,17,-1.0,346600.0,0,20
+SYN-00082,LAP,Self-Employed,Uttar Pradesh,Business Expansion,0.706,0.322,71400.0,180,11.66,29,816.0,1362300.0,0,0
+SYN-00083,HL,Self-Employed,Rajasthan,Construction,0.432,0.427,73900.0,84,11.92,24,699.0,544700.0,0,0
+SYN-00084,HL,Self-Employed,Haryana,Business Expansion,0.323,0.402,66100.0,60,13.06,16,745.0,267000.0,0,2
+SYN-00085,HL,Salaried,Haryana,Business Expansion,0.41,0.277,81400.0,84,14.95,11,605.0,368300.0,0,0
+SYN-00086,PL,Salaried,Haryana,Home Purchase,0.264,0.422,33600.0,84,12.97,25,735.0,296300.0,0,0
+SYN-00087,LAP,Self-Employed,Uttar Pradesh,Home Purchase,0.685,0.537,52600.0,120,14.08,26,722.0,660000.0,0,0
+SYN-00088,LAP,Salaried,Uttar Pradesh,Business Expansion,0.693,0.519,62000.0,240,14.42,12,700.0,195000.0,0,0
+SYN-00089,HL,Salaried,Uttarakhand,Business Expansion,0.599,0.695,48000.0,180,13.64,5,774.0,226300.0,0,0
+SYN-00090,HL,Salaried,Rajasthan,Home Purchase,0.432,0.608,144300.0,84,12.94,18,755.0,329100.0,0,26
+SYN-00091,HL,Self-Employed,Haryana,Home Purchase,0.711,0.59,74300.0,120,13.99,20,747.0,622500.0,0,0
+SYN-00092,LAP,Self-Employed,Uttarakhand,Business Expansion,0.432,0.709,81900.0,60,13.77,28,738.0,819600.0,0,0
+SYN-00093,LAP,Self-Employed,Haryana,Business Expansion,0.463,0.522,59200.0,120,14.33,27,789.0,882300.0,0,0
+SYN-00094,HL,Self-Employed,Haryana,Home Purchase,0.571,0.382,83100.0,60,12.46,9,798.0,576600.0,0,28
+SYN-00095,PL,Salaried,Uttar Pradesh,Construction,0.492,0.475,47500.0,240,11.17,9,754.0,424500.0,0,27
+SYN-00096,HL,Salaried,Haryana,Working Capital,0.685,0.328,75300.0,180,13.13,29,709.0,658200.0,0,8
+SYN-00097,PL,Salaried,Uttarakhand,Home Purchase,0.47,0.411,52000.0,84,12.7,11,755.0,249600.0,0,0
+SYN-00098,HL,Self-Employed,Uttarakhand,Working Capital,0.476,0.405,62500.0,120,13.34,15,760.0,175900.0,0,0
+SYN-00099,HL,Salaried,Uttarakhand,Home Purchase,0.372,0.445,24800.0,120,12.48,11,874.0,550400.0,0,25
+SYN-00100,PL,Self-Employed,Uttar Pradesh,Construction,0.256,0.366,45400.0,180,12.51,13,756.0,267600.0,0,0
+SYN-00101,HL,Self-Employed,Uttarakhand,Construction,0.545,0.446,127400.0,120,15.43,18,660.0,428200.0,50,29
+SYN-00102,HL,Salaried,Uttar Pradesh,Home Purchase,0.616,0.474,109300.0,60,11.8,10,699.0,469700.0,0,10
+SYN-00103,HL,Self-Employed,Haryana,Working Capital,0.616,0.473,124800.0,120,13.1,14,739.0,500800.0,0,0
+SYN-00104,HL,Salaried,Haryana,Construction,0.446,0.211,147100.0,60,12.42,12,693.0,707100.0,0,0
+SYN-00105,LAP,Self-Employed,Uttarakhand,Working Capital,0.368,0.294,100600.0,120,14.95,5,772.0,670700.0,0,5
+SYN-00106,PL,Self-Employed,Rajasthan,Home Purchase,0.47,0.288,64400.0,84,13.79,24,-1.0,487700.0,0,0
+SYN-00107,PL,Self-Employed,Haryana,Working Capital,0.601,0.345,47100.0,120,11.59,27,-1.0,354700.0,0,0
+SYN-00108,HL,Salaried,Uttar Pradesh,Working Capital,0.602,0.533,114600.0,180,15.52,16,701.0,466900.0,0,8
+SYN-00109,LAP,Salaried,Delhi,Business Expansion,0.416,0.386,86400.0,60,13.47,8,-1.0,328400.0,0,0
+SYN-00110,HL,Salaried,Delhi,Home Purchase,0.43,0.578,217000.0,120,12.67,20,732.0,401000.0,0,15
+SYN-00111,HL,Salaried,Uttar Pradesh,Business Expansion,0.618,0.537,60900.0,180,11.17,17,697.0,1638200.0,0,0
+SYN-00112,HL,Salaried,Uttarakhand,Construction,0.1,0.527,186300.0,60,12.95,17,844.0,484600.0,0,6
+SYN-00113,PL,Salaried,Uttarakhand,Working Capital,0.459,0.439,76500.0,120,13.47,19,775.0,554100.0,0,0
+SYN-00114,PL,Self-Employed,Delhi,Construction,0.813,0.475,132600.0,120,15.15,22,772.0,310900.0,0,13
+SYN-00115,LAP,Salaried,Haryana,Home Purchase,0.287,0.533,163700.0,84,12.21,4,650.0,736800.0,0,15
+SYN-00116,LAP,Salaried,Rajasthan,Home Purchase,0.485,0.554,45300.0,180,15.44,5,789.0,647000.0,0,17
+SYN-00117,LAP,Self-Employed,Haryana,Business Expansion,0.5,0.489,58700.0,120,11.29,5,805.0,649300.0,0,0
+SYN-00118,LAP,Self-Employed,Delhi,Working Capital,0.541,0.657,40400.0,120,14.41,7,685.0,492600.0,378,498
+SYN-00119,LAP,Self-Employed,Haryana,Home Purchase,0.61,0.203,42900.0,60,12.89,29,774.0,742000.0,0,28
+SYN-00120,HL,Self-Employed,Haryana,Business Expansion,0.495,0.37,107200.0,60,13.83,22,801.0,835500.0,0,13
+SYN-00121,HL,Self-Employed,Haryana,Working Capital,0.529,0.428,66000.0,60,14.94,20,705.0,509700.0,0,0
+SYN-00122,HL,Self-Employed,Uttar Pradesh,Home Purchase,0.609,0.576,73600.0,240,14.63,21,757.0,417800.0,0,0
+SYN-00123,PL,Salaried,Haryana,Home Purchase,0.584,0.675,84300.0,180,13.24,3,656.0,692000.0,59,50
+SYN-00124,LAP,Self-Employed,Haryana,Business Expansion,0.85,0.347,29700.0,180,15.03,8,683.0,281500.0,0,175
+SYN-00125,PL,Salaried,Uttar Pradesh,Business Expansion,0.54,0.609,126800.0,60,14.29,24,778.0,309000.0,0,0
+SYN-00126,HL,Salaried,Uttar Pradesh,Home Purchase,0.611,0.406,55600.0,120,13.0,15,733.0,430800.0,11,29
+SYN-00127,LAP,Salaried,Delhi,Working Capital,0.223,0.276,102200.0,180,10.5,16,750.0,185200.0,0,0
+SYN-00128,HL,Salaried,Delhi,Construction,0.396,0.395,101800.0,120,14.03,23,729.0,669200.0,0,29
+SYN-00129,HL,Self-Employed,Uttarakhand,Working Capital,0.582,0.372,145900.0,60,12.58,5,743.0,273400.0,0,22
+SYN-00130,HL,Salaried,Haryana,Working Capital,0.316,0.275,72000.0,180,11.9,24,787.0,349500.0,0,0
+SYN-00131,HL,Salaried,Haryana,Working Capital,0.158,0.446,31400.0,60,12.19,21,743.0,397700.0,0,20
+SYN-00132,PL,Salaried,Rajasthan,Construction,0.542,0.55,71300.0,60,14.37,13,734.0,451200.0,0,0
+SYN-00133,HL,Self-Employed,Haryana,Home Purchase,0.651,0.544,81500.0,240,13.24,16,781.0,372600.0,0,0
+SYN-00134,LAP,Salaried,Uttar Pradesh,Construction,0.417,0.333,51700.0,120,10.77,5,788.0,427800.0,0,0
+SYN-00135,LAP,Self-Employed,Rajasthan,Home Purchase,0.399,0.395,84800.0,84,14.57,8,821.0,429400.0,0,0
+SYN-00136,HL,Self-Employed,Rajasthan,Business Expansion,0.296,0.463,60600.0,120,14.76,9,-1.0,353800.0,0,28
+SYN-00137,LAP,Salaried,Uttar Pradesh,Home Purchase,0.605,0.661,37400.0,240,13.84,26,701.0,300600.0,0,19
+SYN-00138,HL,Self-Employed,Uttarakhand,Construction,0.699,0.266,84300.0,60,14.8,6,626.0,759700.0,386,506
+SYN-00139,PL,Salaried,Uttar Pradesh,Home Purchase,0.461,0.5,44900.0,180,16.19,10,684.0,154500.0,367,487
+SYN-00140,PL,Salaried,Delhi,Home Purchase,0.661,0.471,58900.0,84,12.7,6,691.0,399200.0,0,1
+SYN-00141,LAP,Self-Employed,Haryana,Home Purchase,0.533,0.292,64300.0,60,13.03,10,790.0,350000.0,0,2
+SYN-00142,LAP,Self-Employed,Haryana,Business Expansion,0.508,0.318,151200.0,120,10.5,3,811.0,545500.0,0,14
+SYN-00143,HL,Salaried,Uttarakhand,Business Expansion,0.586,0.451,70300.0,120,13.64,10,683.0,213800.0,0,0
+SYN-00144,PL,Self-Employed,Haryana,Home Purchase,0.53,0.344,80900.0,84,11.68,22,741.0,344600.0,0,18
+SYN-00145,HL,Salaried,Uttarakhand,Working Capital,0.538,0.436,62000.0,120,12.05,23,817.0,420300.0,0,0
+SYN-00146,HL,Self-Employed,Uttar Pradesh,Working Capital,0.567,0.482,94600.0,120,14.66,13,770.0,755400.0,0,0
+SYN-00147,HL,Self-Employed,Delhi,Home Purchase,0.273,0.419,135700.0,120,13.45,22,700.0,522300.0,0,0
+SYN-00148,LAP,Self-Employed,Delhi,Business Expansion,0.384,0.458,89900.0,180,14.56,19,716.0,244800.0,56,82
+SYN-00149,LAP,Self-Employed,Uttar Pradesh,Construction,0.421,0.441,98400.0,180,11.61,27,728.0,346700.0,0,0
+SYN-00150,LAP,Salaried,Delhi,Home Purchase,0.475,0.441,97300.0,120,12.78,24,880.0,689000.0,0,3
+SYN-00151,LAP,Self-Employed,Haryana,Construction,0.484,0.224,42700.0,120,13.13,9,789.0,242700.0,0,23
+SYN-00152,HL,Self-Employed,Uttar Pradesh,Home Purchase,0.438,0.412,56400.0,120,12.35,18,781.0,425400.0,0,0
+SYN-00153,PL,Self-Employed,Haryana,Working Capital,0.605,0.381,69300.0,120,10.96,24,821.0,440400.0,0,2
+SYN-00154,HL,Salaried,Delhi,Working Capital,0.635,0.573,53000.0,60,13.66,11,659.0,364800.0,0,12
+SYN-00155,LAP,Salaried,Delhi,Working Capital,0.501,0.598,39300.0,84,15.28,18,682.0,1703000.0,239,359
+SYN-00156,HL,Salaried,Rajasthan,Business Expansion,0.536,0.574,31200.0,60,14.89,13,825.0,359900.0,0,0
+SYN-00157,PL,Salaried,Delhi,Business Expansion,0.457,0.398,36900.0,84,13.63,11,700.0,554000.0,0,97
+SYN-00158,HL,Salaried,Rajasthan,Working Capital,0.447,0.388,67800.0,240,10.86,8,679.0,301600.0,0,18
+SYN-00159,HL,Salaried,Haryana,Home Purchase,0.468,0.267,77900.0,120,11.56,3,764.0,576000.0,0,0
+SYN-00160,LAP,Self-Employed,Rajasthan,Home Purchase,0.1,0.331,55300.0,120,11.63,23,-1.0,683800.0,0,14
+SYN-00161,HL,Salaried,Uttar Pradesh,Business Expansion,0.746,0.539,80300.0,120,13.66,25,782.0,329700.0,0,0
+SYN-00162,HL,Self-Employed,Uttar Pradesh,Home Purchase,0.696,0.705,50700.0,120,12.49,20,628.0,430500.0,213,333
+SYN-00163,LAP,Salaried,Uttar Pradesh,Home Purchase,0.379,0.294,127600.0,120,12.39,9,738.0,282800.0,0,0
+SYN-00164,HL,Self-Employed,Haryana,Home Purchase,0.782,0.446,63600.0,120,15.6,3,685.0,249600.0,0,0
+SYN-00165,PL,Salaried,Haryana,Business Expansion,0.404,0.397,107500.0,180,12.78,20,788.0,743000.0,0,19
+SYN-00166,HL,Salaried,Haryana,Home Purchase,0.572,0.555,74400.0,60,15.14,8,768.0,335400.0,0,0
+SYN-00167,LAP,Self-Employed,Haryana,Home Purchase,0.465,0.293,37700.0,120,12.17,17,774.0,132300.0,0,0
+SYN-00168,LAP,Self-Employed,Uttar Pradesh,Home Purchase,0.689,0.282,71100.0,120,11.77,29,766.0,1069500.0,0,23
+SYN-00169,LAP,Salaried,Delhi,Construction,0.485,0.497,42100.0,180,14.9,3,682.0,296200.0,0,26
+SYN-00170,LAP,Salaried,Uttarakhand,Working Capital,0.479,0.222,73400.0,240,13.08,18,703.0,391100.0,0,6
+SYN-00171,LAP,Self-Employed,Uttar Pradesh,Home Purchase,0.671,0.428,50500.0,180,13.96,29,748.0,1005000.0,0,4
+SYN-00172,PL,Self-Employed,Uttar Pradesh,Business Expansion,0.543,0.443,90100.0,120,12.02,12,695.0,412100.0,0,0
+SYN-00173,HL,Salaried,Uttar Pradesh,Business Expansion,0.42,0.43,44100.0,60,12.62,24,773.0,407700.0,0,6
+SYN-00174,HL,Salaried,Haryana,Home Purchase,0.557,0.372,81500.0,120,11.33,25,798.0,239400.0,0,6
+SYN-00175,LAP,Salaried,Delhi,Working Capital,0.815,0.422,93300.0,180,14.82,16,683.0,195400.0,0,1
+SYN-00176,PL,Self-Employed,Haryana,Business Expansion,0.633,0.613,97000.0,240,17.49,11,639.0,407100.0,294,414
+SYN-00177,HL,Salaried,Uttarakhand,Business Expansion,0.524,0.487,51200.0,180,14.11,21,730.0,530400.0,0,3
+SYN-00178,HL,Salaried,Delhi,Home Purchase,0.513,0.379,74400.0,60,12.77,19,767.0,515400.0,0,22
+SYN-00179,PL,Self-Employed,Uttar Pradesh,Home Purchase,0.674,0.468,77700.0,180,11.2,15,-1.0,347800.0,0,10
+SYN-00180,LAP,Salaried,Delhi,Working Capital,0.506,0.554,132200.0,180,12.86,8,722.0,446900.0,9,2
+SYN-00181,PL,Salaried,Haryana,Business Expansion,0.48,0.633,36900.0,120,15.23,23,736.0,176600.0,0,9
+SYN-00182,LAP,Salaried,Delhi,Working Capital,0.291,0.508,50200.0,120,12.14,8,721.0,556900.0,0,0
+SYN-00183,LAP,Salaried,Uttarakhand,Working Capital,0.424,0.627,236500.0,120,14.01,6,653.0,479600.0,7,0
+SYN-00184,HL,Salaried,Delhi,Home Purchase,0.464,0.41,62500.0,120,14.5,4,702.0,1186900.0,0,19
+SYN-00185,PL,Salaried,Uttarakhand,Business Expansion,0.585,0.474,27600.0,84,16.21,15,705.0,444100.0,15,19
+SYN-00186,HL,Self-Employed,Delhi,Construction,0.723,0.436,55400.0,60,13.45,6,749.0,276100.0,0,0
+SYN-00187,LAP,Self-Employed,Rajasthan,Business Expansion,0.491,0.374,23200.0,180,12.12,12,688.0,431300.0,0,0
+SYN-00188,HL,Salaried,Uttar Pradesh,Home Purchase,0.308,0.281,90900.0,240,12.48,9,753.0,375500.0,0,29
+SYN-00189,LAP,Self-Employed,Delhi,Home Purchase,0.512,0.659,92300.0,180,14.19,15,736.0,549800.0,165,285
+SYN-00190,LAP,Salaried,Uttarakhand,Business Expansion,0.768,0.625,42300.0,84,14.31,23,683.0,448400.0,120,240
+SYN-00191,LAP,Self-Employed,Uttar Pradesh,Business Expansion,0.624,0.41,60000.0,60,13.77,15,683.0,235600.0,0,2
+SYN-00192,PL,Salaried,Rajasthan,Business Expansion,0.48,0.495,114300.0,84,13.38,18,859.0,195300.0,0,0
+SYN-00193,HL,Self-Employed,Uttar Pradesh,Home Purchase,0.535,0.545,29600.0,180,16.8,6,688.0,504600.0,38,159
+SYN-00194,LAP,Salaried,Uttar Pradesh,Home Purchase,0.569,0.467,44100.0,120,13.05,6,796.0,883400.0,0,0
+SYN-00195,HL,Self-Employed,Haryana,Working Capital,0.327,0.271,70900.0,240,13.94,29,-1.0,460300.0,0,14
+SYN-00196,HL,Salaried,Haryana,Construction,0.586,0.468,49500.0,84,12.94,19,701.0,664400.0,0,15
+SYN-00197,HL,Self-Employed,Delhi,Construction,0.749,0.424,66100.0,120,13.71,3,721.0,734100.0,0,0
+SYN-00198,HL,Salaried,Uttar Pradesh,Business Expansion,0.524,0.512,41400.0,180,12.77,18,836.0,505500.0,0,13
+SYN-00199,HL,Self-Employed,Uttar Pradesh,Construction,0.397,0.379,81600.0,84,13.76,3,791.0,294400.0,0,3
+SYN-00200,LAP,Salaried,Haryana,Business Expansion,0.569,0.217,66600.0,240,14.46,5,765.0,487800.0,0,14
+SYN-00201,LAP,Self-Employed,Uttar Pradesh,Construction,0.528,0.412,83700.0,120,14.68,13,717.0,809000.0,4,14
+SYN-00202,LAP,Self-Employed,Delhi,Working Capital,0.338,0.448,79500.0,60,15.98,20,-1.0,576600.0,0,0
+SYN-00203,HL,Self-Employed,Delhi,Working Capital,0.623,0.489,76200.0,60,15.44,19,775.0,643100.0,0,9
+SYN-00204,HL,Salaried,Haryana,Working Capital,0.511,0.516,44900.0,180,13.04,24,774.0,351100.0,0,0
+SYN-00205,HL,Salaried,Uttar Pradesh,Business Expansion,0.46,0.506,91600.0,120,14.23,7,754.0,399800.0,0,14
+SYN-00206,LAP,Salaried,Uttar Pradesh,Construction,0.404,0.416,67400.0,180,14.59,8,696.0,416900.0,0,24
+SYN-00207,PL,Salaried,Uttarakhand,Business Expansion,0.311,0.386,74800.0,180,11.09,17,691.0,431200.0,0,0
+SYN-00208,HL,Self-Employed,Uttar Pradesh,Working Capital,0.429,0.517,125700.0,120,14.17,26,785.0,793300.0,0,10
+SYN-00209,LAP,Self-Employed,Uttar Pradesh,Business Expansion,0.412,0.374,54300.0,180,12.24,22,715.0,136800.0,0,0
+SYN-00210,HL,Self-Employed,Uttar Pradesh,Business Expansion,0.434,0.482,124800.0,240,13.67,21,618.0,449200.0,0,0
+SYN-00211,HL,Salaried,Uttar Pradesh,Business Expansion,0.647,0.275,155800.0,60,13.0,5,811.0,425200.0,0,10
+SYN-00212,HL,Self-Employed,Uttar Pradesh,Business Expansion,0.558,0.593,102400.0,180,14.76,26,834.0,222800.0,0,0
+SYN-00213,HL,Self-Employed,Uttar Pradesh,Business Expansion,0.54,0.465,48900.0,84,11.96,29,-1.0,619000.0,0,0
+SYN-00214,LAP,Self-Employed,Delhi,Home Purchase,0.586,0.363,28100.0,84,12.73,18,-1.0,308000.0,0,0
+SYN-00215,PL,Salaried,Uttarakhand,Construction,0.653,0.489,109700.0,120,14.4,12,705.0,370100.0,8,0
+SYN-00216,HL,Salaried,Haryana,Business Expansion,0.483,0.528,73600.0,180,13.74,20,761.0,1115000.0,0,7
+SYN-00217,LAP,Self-Employed,Delhi,Home Purchase,0.613,0.492,47000.0,60,15.42,20,744.0,733100.0,17,0
+SYN-00218,LAP,Salaried,Delhi,Working Capital,0.458,0.389,125600.0,120,16.81,28,730.0,589600.0,0,0
+SYN-00219,PL,Salaried,Haryana,Business Expansion,0.511,0.35,52500.0,120,13.36,5,766.0,535200.0,0,0
+SYN-00220,LAP,Self-Employed,Uttar Pradesh,Home Purchase,0.528,0.473,61500.0,60,12.59,16,761.0,407400.0,0,28
+SYN-00221,HL,Self-Employed,Haryana,Working Capital,0.469,0.426,90800.0,180,12.4,22,756.0,1202200.0,0,29
+SYN-00222,LAP,Self-Employed,Uttarakhand,Business Expansion,0.351,0.413,43700.0,240,13.32,12,728.0,660700.0,0,0
+SYN-00223,HL,Self-Employed,Haryana,Business Expansion,0.452,0.262,75900.0,60,11.69,25,773.0,304100.0,0,0
+SYN-00224,PL,Salaried,Uttarakhand,Construction,0.481,0.462,118500.0,60,14.04,4,799.0,219700.0,0,13
+SYN-00225,HL,Salaried,Haryana,Working Capital,0.287,0.443,79000.0,240,14.13,5,786.0,587400.0,0,0
+SYN-00226,LAP,Salaried,Uttar Pradesh,Construction,0.712,0.544,104800.0,60,15.05,24,673.0,430200.0,206,326
+SYN-00227,HL,Self-Employed,Rajasthan,Business Expansion,0.728,0.564,104800.0,60,16.99,6,752.0,216500.0,234,354
+SYN-00228,HL,Salaried,Uttar Pradesh,Home Purchase,0.752,0.482,78600.0,240,12.08,14,752.0,548100.0,0,0
+SYN-00229,PL,Self-Employed,Delhi,Business Expansion,0.436,0.506,26100.0,180,13.15,10,823.0,386700.0,0,27
+SYN-00230,LAP,Salaried,Rajasthan,Business Expansion,0.348,0.432,50000.0,120,12.97,21,816.0,576800.0,0,0
+SYN-00231,HL,Self-Employed,Delhi,Business Expansion,0.331,0.396,108100.0,120,13.92,3,880.0,551800.0,0,0
+SYN-00232,PL,Salaried,Haryana,Construction,0.544,0.409,35500.0,240,15.03,12,-1.0,326400.0,0,0
+SYN-00233,PL,Salaried,Delhi,Working Capital,0.597,0.406,57300.0,120,14.89,29,667.0,607100.0,12,34
+SYN-00234,HL,Salaried,Haryana,Business Expansion,0.359,0.354,90300.0,120,13.97,12,784.0,344900.0,0,3
+SYN-00235,LAP,Salaried,Uttar Pradesh,Home Purchase,0.44,0.419,149300.0,180,12.31,19,781.0,356300.0,0,0
+SYN-00236,LAP,Self-Employed,Delhi,Working Capital,0.134,0.264,67000.0,120,12.7,29,880.0,339000.0,0,0
+SYN-00237,LAP,Salaried,Uttarakhand,Business Expansion,0.601,0.451,55500.0,120,14.27,19,716.0,778800.0,0,15
+SYN-00238,HL,Salaried,Uttar Pradesh,Working Capital,0.344,0.3,77800.0,84,14.16,23,818.0,384500.0,0,3
+SYN-00239,HL,Self-Employed,Uttar Pradesh,Working Capital,0.464,0.257,89300.0,120,11.41,28,811.0,878700.0,0,0
+SYN-00240,PL,Self-Employed,Delhi,Working Capital,0.276,0.488,73200.0,120,11.89,19,802.0,1079200.0,0,0
+SYN-00241,PL,Salaried,Uttarakhand,Business Expansion,0.424,0.398,118200.0,84,14.25,25,700.0,305800.0,0,0
+SYN-00242,PL,Salaried,Uttar Pradesh,Business Expansion,0.361,0.278,58700.0,120,10.5,16,865.0,102700.0,0,0
+SYN-00243,PL,Salaried,Delhi,Home Purchase,0.411,0.267,86800.0,180,12.82,24,847.0,745800.0,0,0
+SYN-00244,LAP,Self-Employed,Haryana,Construction,0.685,0.599,75400.0,120,16.26,20,692.0,372900.0,180,300
+SYN-00245,LAP,Salaried,Haryana,Business Expansion,0.595,0.523,67700.0,60,11.89,12,794.0,286900.0,0,12
+SYN-00246,LAP,Salaried,Uttarakhand,Construction,0.522,0.355,116500.0,84,12.19,18,789.0,329600.0,0,0
+SYN-00247,LAP,Salaried,Rajasthan,Working Capital,0.726,0.52,67500.0,84,13.9,12,672.0,359500.0,154,274
+SYN-00248,LAP,Self-Employed,Haryana,Home Purchase,0.848,0.702,82700.0,180,15.3,13,667.0,846300.0,298,418
+SYN-00249,HL,Salaried,Haryana,Construction,0.498,0.21,87600.0,120,12.07,10,782.0,479200.0,0,0
+SYN-00250,LAP,Self-Employed,Haryana,Construction,0.474,0.628,89200.0,84,12.52,16,-1.0,840500.0,0,0
+SYN-00251,HL,Salaried,Delhi,Construction,0.642,0.711,53500.0,180,13.04,12,681.0,566400.0,0,11
+SYN-00252,HL,Self-Employed,Haryana,Home Purchase,0.732,0.266,47900.0,60,14.61,19,-1.0,379000.0,109,229
+SYN-00253,LAP,Salaried,Uttar Pradesh,Home Purchase,0.519,0.391,137300.0,60,12.43,12,785.0,364000.0,0,0
+SYN-00254,HL,Salaried,Rajasthan,Working Capital,0.311,0.366,99300.0,180,15.18,16,-1.0,585800.0,0,10
+SYN-00255,HL,Salaried,Haryana,Construction,0.446,0.462,43400.0,120,13.73,6,722.0,666800.0,0,23
+SYN-00256,PL,Self-Employed,Uttar Pradesh,Home Purchase,0.493,0.43,76600.0,180,14.19,13,747.0,728200.0,0,0
+SYN-00257,PL,Self-Employed,Uttar Pradesh,Home Purchase,0.571,0.512,25900.0,180,12.62,12,725.0,388200.0,0,0
+SYN-00258,HL,Salaried,Delhi,Construction,0.489,0.432,57100.0,240,12.8,28,811.0,482900.0,0,7
+SYN-00259,HL,Salaried,Uttar Pradesh,Home Purchase,0.554,0.29,125800.0,60,10.7,15,-1.0,592400.0,0,0
+SYN-00260,HL,Self-Employed,Uttar Pradesh,Business Expansion,0.644,0.421,70500.0,180,11.74,3,729.0,365100.0,0,21
+SYN-00261,LAP,Salaried,Haryana,Business Expansion,0.628,0.488,78800.0,180,12.08,11,-1.0,250800.0,0,0
+SYN-00262,PL,Salaried,Uttarakhand,Home Purchase,0.659,0.343,18500.0,84,13.87,22,649.0,295600.0,0,1
+SYN-00263,HL,Salaried,Delhi,Business Expansion,0.342,0.258,64100.0,240,14.13,7,-1.0,392200.0,0,0
+SYN-00264,LAP,Self-Employed,Haryana,Home Purchase,0.586,0.673,82000.0,120,12.09,7,768.0,616100.0,0,10
+SYN-00265,HL,Self-Employed,Uttar Pradesh,Home Purchase,0.488,0.436,83100.0,180,13.76,13,626.0,830300.0,24,5
+SYN-00266,HL,Self-Employed,Delhi,Working Capital,0.311,0.444,111400.0,120,12.26,12,785.0,224600.0,0,0
+SYN-00267,PL,Self-Employed,Haryana,Construction,0.487,0.428,64700.0,120,13.52,15,796.0,328200.0,0,0
+SYN-00268,HL,Salaried,Haryana,Working Capital,0.662,0.507,67600.0,60,14.62,3,722.0,369900.0,0,21
+SYN-00269,HL,Salaried,Uttar Pradesh,Home Purchase,0.555,0.627,40200.0,240,13.05,22,753.0,658300.0,0,7
+SYN-00270,HL,Salaried,Haryana,Home Purchase,0.699,0.472,70700.0,120,12.88,8,816.0,339700.0,0,15
+SYN-00271,LAP,Salaried,Haryana,Construction,0.54,0.314,40400.0,60,15.21,22,708.0,356900.0,0,0
+SYN-00272,PL,Salaried,Uttar Pradesh,Construction,0.788,0.307,32100.0,60,13.88,18,782.0,218400.0,0,0
+SYN-00273,PL,Salaried,Haryana,Working Capital,0.647,0.515,38000.0,180,14.41,8,637.0,563400.0,355,475
+SYN-00274,HL,Salaried,Uttar Pradesh,Home Purchase,0.597,0.502,127100.0,60,14.92,15,663.0,408100.0,114,234
+SYN-00275,HL,Self-Employed,Uttarakhand,Working Capital,0.37,0.297,62800.0,120,12.98,3,691.0,319000.0,0,16
+SYN-00276,LAP,Salaried,Uttar Pradesh,Working Capital,0.587,0.494,85800.0,120,13.31,21,782.0,388600.0,0,12
+SYN-00277,HL,Salaried,Haryana,Business Expansion,0.373,0.286,63400.0,84,13.13,11,831.0,777200.0,0,0
+SYN-00278,PL,Self-Employed,Delhi,Home Purchase,0.494,0.659,29700.0,120,13.09,13,690.0,267700.0,24,29
+SYN-00279,LAP,Self-Employed,Haryana,Construction,0.67,0.645,109100.0,84,13.89,7,674.0,290400.0,0,7
+SYN-00280,HL,Self-Employed,Delhi,Home Purchase,0.668,0.449,26500.0,240,13.77,12,674.0,827500.0,0,9
+SYN-00281,PL,Self-Employed,Uttar Pradesh,Business Expansion,0.531,0.407,65500.0,180,12.65,13,819.0,459500.0,0,23
+SYN-00282,HL,Self-Employed,Delhi,Construction,0.512,0.373,66300.0,84,15.07,9,-1.0,618400.0,0,10
+SYN-00283,HL,Salaried,Haryana,Working Capital,0.521,0.535,78200.0,120,14.34,29,-1.0,540800.0,0,0
+SYN-00284,LAP,Salaried,Haryana,Business Expansion,0.426,0.345,57600.0,120,12.31,10,761.0,434700.0,0,0
+SYN-00285,LAP,Self-Employed,Uttar Pradesh,Construction,0.566,0.318,33200.0,240,14.06,7,791.0,371700.0,0,7
+SYN-00286,LAP,Salaried,Haryana,Business Expansion,0.702,0.434,49900.0,84,12.84,17,720.0,670500.0,0,21
+SYN-00287,LAP,Salaried,Haryana,Construction,0.547,0.406,52000.0,120,12.22,11,721.0,791100.0,0,26
+SYN-00288,PL,Salaried,Uttarakhand,Working Capital,0.719,0.403,52900.0,240,10.5,15,707.0,760800.0,0,6
+SYN-00289,PL,Salaried,Delhi,Home Purchase,0.601,0.54,114100.0,60,13.35,22,807.0,244600.0,0,1
+SYN-00290,LAP,Salaried,Haryana,Working Capital,0.457,0.359,43200.0,120,12.48,5,635.0,849500.0,0,18
+SYN-00291,HL,Salaried,Delhi,Working Capital,0.609,0.631,82700.0,60,14.02,16,771.0,369900.0,0,28
+SYN-00292,LAP,Self-Employed,Delhi,Working Capital,0.793,0.391,69800.0,120,12.71,3,668.0,303300.0,53,24
+SYN-00293,PL,Self-Employed,Delhi,Construction,0.586,0.483,138300.0,84,10.8,4,811.0,406500.0,0,0
+SYN-00294,HL,Salaried,Uttarakhand,Working Capital,0.628,0.337,70200.0,240,13.78,5,-1.0,670400.0,0,0
+SYN-00295,LAP,Self-Employed,Uttarakhand,Home Purchase,0.514,0.459,102900.0,120,12.61,7,702.0,579700.0,0,3
+SYN-00296,HL,Salaried,Uttar Pradesh,Business Expansion,0.492,0.416,66100.0,60,14.15,12,699.0,389400.0,0,0
+SYN-00297,HL,Self-Employed,Uttarakhand,Home Purchase,0.547,0.397,91600.0,180,12.65,28,747.0,672600.0,0,0
+SYN-00298,LAP,Self-Employed,Rajasthan,Home Purchase,0.595,0.442,42800.0,180,12.06,27,820.0,474500.0,0,0
+SYN-00299,HL,Salaried,Haryana,Construction,0.572,0.616,21700.0,120,14.36,5,709.0,332200.0,0,0
+SYN-00300,LAP,Self-Employed,Haryana,Home Purchase,0.658,0.655,75500.0,180,15.83,29,609.0,310500.0,236,356
+SYN-00301,PL,Self-Employed,Haryana,Construction,0.414,0.333,100400.0,84,12.37,20,755.0,543100.0,0,29
+SYN-00302,PL,Self-Employed,Rajasthan,Working Capital,0.512,0.512,84500.0,120,13.38,17,767.0,424500.0,0,0
+SYN-00303,HL,Self-Employed,Uttar Pradesh,Home Purchase,0.461,0.355,59300.0,60,12.78,24,755.0,222400.0,0,0
+SYN-00304,HL,Self-Employed,Uttarakhand,Business Expansion,0.513,0.348,143700.0,60,14.09,16,-1.0,675800.0,0,0
+SYN-00305,LAP,Salaried,Delhi,Home Purchase,0.643,0.283,64700.0,240,11.64,10,765.0,348000.0,0,28
+SYN-00306,PL,Self-Employed,Rajasthan,Business Expansion,0.451,0.39,90800.0,180,13.05,17,722.0,980700.0,0,9
+SYN-00307,LAP,Self-Employed,Haryana,Business Expansion,0.584,0.54,86100.0,84,14.15,22,770.0,219400.0,23,32
+SYN-00308,PL,Self-Employed,Delhi,Construction,0.431,0.288,151300.0,60,13.86,21,711.0,404200.0,0,0
+SYN-00309,HL,Salaried,Delhi,Business Expansion,0.69,0.532,55200.0,240,13.88,7,659.0,311800.0,106,226
+SYN-00310,PL,Self-Employed,Haryana,Working Capital,0.735,0.66,49600.0,60,12.59,28,748.0,271700.0,45,165
+SYN-00311,HL,Salaried,Delhi,Working Capital,0.721,0.584,36000.0,84,14.37,10,692.0,346800.0,0,28
+SYN-00312,HL,Self-Employed,Uttar Pradesh,Construction,0.629,0.479,127900.0,60,15.86,25,652.0,1072300.0,263,383
+SYN-00313,LAP,Salaried,Uttarakhand,Construction,0.595,0.332,85300.0,60,12.06,11,725.0,475300.0,0,4
+SYN-00314,HL,Self-Employed,Uttar Pradesh,Business Expansion,0.531,0.537,83900.0,84,14.53,4,711.0,297800.0,0,22
+SYN-00315,HL,Self-Employed,Haryana,Home Purchase,0.546,0.203,304400.0,240,14.35,29,762.0,177300.0,0,29
+SYN-00316,HL,Salaried,Haryana,Working Capital,0.542,0.564,84200.0,84,14.15,18,832.0,187100.0,0,4
+SYN-00317,HL,Salaried,Haryana,Home Purchase,0.465,0.394,43000.0,120,12.53,8,780.0,338300.0,0,16
+SYN-00318,LAP,Salaried,Haryana,Working Capital,0.576,0.683,61900.0,180,13.35,3,598.0,322300.0,0,5
+SYN-00319,HL,Self-Employed,Uttarakhand,Home Purchase,0.484,0.218,51800.0,120,12.64,6,796.0,395500.0,0,1
+SYN-00320,LAP,Self-Employed,Uttar Pradesh,Home Purchase,0.512,0.581,57500.0,180,14.37,7,714.0,142000.0,0,0
+SYN-00321,PL,Salaried,Haryana,Working Capital,0.459,0.43,62000.0,120,13.44,27,749.0,422600.0,0,9
+SYN-00322,HL,Salaried,Uttarakhand,Working Capital,0.775,0.475,51100.0,120,14.26,7,710.0,739600.0,9,0
+SYN-00323,HL,Salaried,Uttarakhand,Working Capital,0.85,0.351,36800.0,120,13.02,7,712.0,995900.0,0,0
+SYN-00324,PL,Salaried,Uttar Pradesh,Working Capital,0.465,0.601,129400.0,180,15.38,25,674.0,171600.0,263,383
+SYN-00325,PL,Self-Employed,Rajasthan,Construction,0.393,0.554,78900.0,180,14.56,26,742.0,296400.0,0,0
+SYN-00326,LAP,Self-Employed,Uttar Pradesh,Home Purchase,0.291,0.55,74900.0,180,12.44,8,771.0,288600.0,0,26
+SYN-00327,PL,Salaried,Delhi,Home Purchase,0.484,0.547,103400.0,60,13.56,20,700.0,475900.0,0,0
+SYN-00328,HL,Self-Employed,Haryana,Construction,0.537,0.332,99300.0,120,14.24,17,880.0,240400.0,0,17
+SYN-00329,HL,Salaried,Uttarakhand,Home Purchase,0.54,0.324,86300.0,180,12.46,18,726.0,1026000.0,0,0
+SYN-00330,LAP,Self-Employed,Rajasthan,Working Capital,0.611,0.389,88200.0,84,15.99,11,692.0,452100.0,30,20
+SYN-00331,HL,Salaried,Delhi,Home Purchase,0.602,0.629,73800.0,180,13.28,23,650.0,416000.0,0,0
+SYN-00332,LAP,Self-Employed,Uttar Pradesh,Home Purchase,0.375,0.337,104600.0,84,14.05,26,770.0,981000.0,0,19
+SYN-00333,LAP,Self-Employed,Uttarakhand,Home Purchase,0.41,0.547,111300.0,84,13.92,22,733.0,438900.0,0,0
+SYN-00334,LAP,Salaried,Uttar Pradesh,Home Purchase,0.5,0.504,78500.0,180,13.23,27,719.0,540400.0,0,0
+SYN-00335,LAP,Self-Employed,Uttarakhand,Home Purchase,0.237,0.422,73000.0,84,14.19,5,830.0,303900.0,0,9
+SYN-00336,HL,Self-Employed,Delhi,Business Expansion,0.32,0.386,153600.0,120,13.43,20,785.0,223000.0,0,18
+SYN-00337,HL,Salaried,Rajasthan,Home Purchase,0.384,0.532,57500.0,84,12.87,29,755.0,326100.0,0,184
+SYN-00338,HL,Salaried,Uttar Pradesh,Business Expansion,0.661,0.506,79500.0,180,14.05,17,620.0,1320500.0,49,154
+SYN-00339,LAP,Self-Employed,Haryana,Working Capital,0.566,0.444,83900.0,120,15.12,28,801.0,607100.0,0,23
+SYN-00340,HL,Salaried,Uttar Pradesh,Business Expansion,0.436,0.405,66800.0,120,12.59,12,767.0,507500.0,0,23
+SYN-00341,HL,Salaried,Haryana,Business Expansion,0.298,0.451,49600.0,180,12.69,27,798.0,271500.0,0,101
+SYN-00342,HL,Salaried,Haryana,Construction,0.326,0.374,62000.0,120,13.42,28,-1.0,697800.0,0,0
+SYN-00343,HL,Self-Employed,Haryana,Home Purchase,0.604,0.531,56700.0,240,14.03,19,751.0,224400.0,0,23
+SYN-00344,PL,Salaried,Uttarakhand,Home Purchase,0.264,0.524,33300.0,180,14.29,22,645.0,202100.0,131,251
+SYN-00345,HL,Salaried,Haryana,Working Capital,0.523,0.396,64300.0,120,14.21,17,819.0,334600.0,0,7
+SYN-00346,PL,Self-Employed,Haryana,Business Expansion,0.246,0.375,86400.0,240,13.26,11,739.0,1175500.0,0,9
+SYN-00347,HL,Salaried,Haryana,Home Purchase,0.637,0.359,123300.0,120,13.91,17,721.0,1142700.0,0,0
+SYN-00348,LAP,Self-Employed,Delhi,Construction,0.298,0.544,106500.0,60,13.43,28,784.0,353100.0,0,0
+SYN-00349,HL,Salaried,Uttarakhand,Working Capital,0.714,0.678,20200.0,84,14.32,3,597.0,315800.0,50,91
+SYN-00350,HL,Self-Employed,Haryana,Business Expansion,0.85,0.557,94800.0,120,14.8,8,778.0,194800.0,0,23
+SYN-00351,PL,Self-Employed,Haryana,Business Expansion,0.278,0.454,53200.0,60,12.51,16,707.0,460000.0,0,0
+SYN-00352,PL,Salaried,Uttar Pradesh,Working Capital,0.549,0.391,93900.0,120,12.59,12,738.0,479700.0,0,6
+SYN-00353,PL,Self-Employed,Haryana,Business Expansion,0.332,0.629,68100.0,84,15.2,19,686.0,656600.0,0,0
+SYN-00354,HL,Salaried,Uttar Pradesh,Business Expansion,0.615,0.468,61600.0,120,15.92,12,719.0,697600.0,22,25
+SYN-00355,HL,Salaried,Uttar Pradesh,Home Purchase,0.489,0.398,68600.0,60,12.91,20,692.0,400800.0,0,0
+SYN-00356,LAP,Salaried,Rajasthan,Home Purchase,0.53,0.649,71100.0,180,12.8,5,630.0,584200.0,0,15
+SYN-00357,HL,Self-Employed,Haryana,Working Capital,0.407,0.459,131100.0,84,14.28,11,749.0,311700.0,0,4
+SYN-00358,LAP,Salaried,Uttarakhand,Business Expansion,0.542,0.584,77700.0,60,12.19,21,794.0,578700.0,0,0
+SYN-00359,LAP,Salaried,Haryana,Construction,0.317,0.303,120600.0,120,13.11,15,736.0,343300.0,0,10
+SYN-00360,LAP,Salaried,Rajasthan,Business Expansion,0.64,0.494,113000.0,120,14.25,22,694.0,556700.0,0,0
+SYN-00361,PL,Salaried,Rajasthan,Home Purchase,0.474,0.676,95800.0,120,13.26,20,731.0,534600.0,0,0
+SYN-00362,LAP,Salaried,Uttarakhand,Working Capital,0.392,0.503,30200.0,120,12.33,11,639.0,457900.0,0,5
+SYN-00363,HL,Salaried,Uttar Pradesh,Home Purchase,0.628,0.371,131600.0,60,11.35,14,731.0,658200.0,0,16
+SYN-00364,HL,Salaried,Haryana,Working Capital,0.484,0.327,60100.0,180,13.41,29,711.0,201800.0,0,0
+SYN-00365,LAP,Salaried,Delhi,Construction,0.818,0.632,89600.0,120,12.82,28,726.0,259800.0,11,0
+SYN-00366,LAP,Self-Employed,Uttarakhand,Home Purchase,0.602,0.336,50100.0,60,12.61,3,750.0,386500.0,0,0
+SYN-00367,HL,Salaried,Haryana,Home Purchase,0.355,0.399,45800.0,180,11.45,22,749.0,215000.0,0,0
+SYN-00368,HL,Self-Employed,Uttar Pradesh,Working Capital,0.502,0.337,175100.0,120,15.3,16,821.0,361000.0,0,16
+SYN-00369,LAP,Salaried,Uttar Pradesh,Home Purchase,0.565,0.648,44400.0,120,16.34,3,726.0,366800.0,0,0
+SYN-00370,PL,Salaried,Delhi,Home Purchase,0.684,0.566,122400.0,120,12.45,20,755.0,851600.0,0,27
+SYN-00371,LAP,Salaried,Uttarakhand,Business Expansion,0.632,0.513,69400.0,120,14.82,3,677.0,475100.0,50,39
+SYN-00372,HL,Salaried,Uttarakhand,Construction,0.573,0.377,56500.0,120,13.23,11,683.0,740200.0,0,0
+SYN-00373,HL,Salaried,Uttarakhand,Construction,0.527,0.646,67000.0,60,13.86,21,612.0,514400.0,0,15
+SYN-00374,LAP,Self-Employed,Haryana,Home Purchase,0.527,0.441,39000.0,84,15.75,24,764.0,338500.0,0,6
+SYN-00375,HL,Salaried,Uttar Pradesh,Working Capital,0.796,0.456,60300.0,240,14.9,14,679.0,473000.0,353,473
+SYN-00376,LAP,Salaried,Haryana,Home Purchase,0.488,0.264,45700.0,120,13.05,24,739.0,637100.0,0,0
+SYN-00377,LAP,Self-Employed,Delhi,Home Purchase,0.332,0.285,71800.0,120,10.95,25,804.0,803500.0,0,0
+SYN-00378,HL,Salaried,Uttar Pradesh,Home Purchase,0.529,0.385,97500.0,84,15.93,15,717.0,414100.0,260,380
+SYN-00379,HL,Salaried,Uttar Pradesh,Home Purchase,0.406,0.365,85100.0,180,10.5,7,686.0,194100.0,0,0
+SYN-00380,HL,Salaried,Haryana,Home Purchase,0.338,0.53,37200.0,84,13.14,20,710.0,187400.0,0,0
+SYN-00381,PL,Salaried,Haryana,Home Purchase,0.489,0.478,96600.0,60,14.5,3,-1.0,375800.0,23,155
+SYN-00382,LAP,Salaried,Uttar Pradesh,Home Purchase,0.584,0.405,82900.0,60,11.56,27,876.0,137500.0,0,7
+SYN-00383,HL,Self-Employed,Haryana,Construction,0.4,0.315,63300.0,180,13.36,13,823.0,1085500.0,0,29
+SYN-00384,PL,Self-Employed,Haryana,Working Capital,0.488,0.376,116300.0,120,13.42,23,697.0,596300.0,0,0
+SYN-00385,LAP,Salaried,Delhi,Home Purchase,0.155,0.602,72300.0,60,11.45,22,700.0,322000.0,0,9
+SYN-00386,LAP,Self-Employed,Uttar Pradesh,Home Purchase,0.595,0.437,41800.0,60,15.95,15,719.0,254000.0,0,0
+SYN-00387,PL,Self-Employed,Uttar Pradesh,Working Capital,0.512,0.515,161100.0,120,12.5,29,700.0,739700.0,0,5
+SYN-00388,HL,Salaried,Uttar Pradesh,Working Capital,0.459,0.307,71000.0,120,15.01,24,671.0,253500.0,0,0
+SYN-00389,HL,Self-Employed,Delhi,Business Expansion,0.437,0.531,78900.0,120,12.52,26,877.0,265900.0,0,24
+SYN-00390,LAP,Self-Employed,Haryana,Home Purchase,0.302,0.287,73300.0,60,11.15,5,835.0,301700.0,0,0
+SYN-00391,HL,Self-Employed,Delhi,Construction,0.248,0.558,123800.0,180,13.13,16,759.0,468400.0,0,0
+SYN-00392,LAP,Self-Employed,Rajasthan,Home Purchase,0.582,0.414,60000.0,240,13.09,28,725.0,603400.0,0,29
+SYN-00393,HL,Salaried,Uttarakhand,Home Purchase,0.557,0.534,35200.0,120,14.08,24,-1.0,803200.0,0,0
+SYN-00394,HL,Salaried,Uttar Pradesh,Construction,0.504,0.552,50900.0,60,13.14,15,698.0,746000.0,0,17
+SYN-00395,HL,Salaried,Uttarakhand,Business Expansion,0.392,0.412,131400.0,120,13.38,4,722.0,442600.0,0,0
+SYN-00396,HL,Salaried,Uttar Pradesh,Construction,0.369,0.597,100100.0,84,13.34,10,741.0,736900.0,0,11
+SYN-00397,HL,Salaried,Uttar Pradesh,Business Expansion,0.541,0.386,64000.0,60,12.47,18,659.0,316300.0,0,0
+SYN-00398,HL,Self-Employed,Uttar Pradesh,Home Purchase,0.725,0.554,130000.0,84,13.11,20,793.0,178000.0,0,22
+SYN-00399,PL,Salaried,Haryana,Home Purchase,0.482,0.376,108300.0,240,11.79,27,773.0,316300.0,0,0
+SYN-00400,HL,Salaried,Haryana,Business Expansion,0.323,0.476,65800.0,120,12.94,5,-1.0,295600.0,0,0
+SYN-00401,HL,Self-Employed,Uttar Pradesh,Working Capital,0.539,0.414,66800.0,180,14.09,13,685.0,322500.0,0,0
+SYN-00402,HL,Salaried,Haryana,Home Purchase,0.543,0.496,79400.0,120,14.28,10,670.0,273800.0,0,0
+SYN-00403,HL,Salaried,Uttar Pradesh,Business Expansion,0.58,0.323,51900.0,120,15.16,28,701.0,351300.0,0,0
+SYN-00404,HL,Self-Employed,Uttar Pradesh,Home Purchase,0.604,0.501,70300.0,60,11.71,7,733.0,603200.0,0,0
+SYN-00405,LAP,Salaried,Rajasthan,Home Purchase,0.126,0.441,85800.0,120,13.76,8,752.0,1043000.0,0,0
+SYN-00406,HL,Salaried,Haryana,Business Expansion,0.558,0.39,34600.0,60,13.41,11,723.0,186700.0,0,0
+SYN-00407,PL,Salaried,Uttarakhand,Home Purchase,0.429,0.486,62800.0,120,14.98,5,665.0,232400.0,0,0
+SYN-00408,PL,Self-Employed,Uttar Pradesh,Construction,0.21,0.364,74800.0,84,12.62,20,753.0,297800.0,0,29
+SYN-00409,HL,Salaried,Haryana,Construction,0.4,0.324,128800.0,84,12.3,17,783.0,648800.0,0,0
+SYN-00410,HL,Salaried,Haryana,Home Purchase,0.46,0.363,35900.0,120,12.49,18,771.0,399300.0,0,24
+SYN-00411,HL,Salaried,Haryana,Home Purchase,0.163,0.233,74200.0,60,10.89,27,791.0,308000.0,0,22
+SYN-00412,LAP,Salaried,Haryana,Home Purchase,0.544,0.651,62200.0,84,13.57,14,833.0,633100.0,0,0
+SYN-00413,HL,Self-Employed,Haryana,Working Capital,0.637,0.593,106100.0,240,12.22,11,710.0,713700.0,0,12
+SYN-00414,PL,Salaried,Uttar Pradesh,Business Expansion,0.489,0.463,73400.0,60,14.05,13,807.0,438300.0,0,0
+SYN-00415,LAP,Self-Employed,Uttar Pradesh,Construction,0.408,0.577,161500.0,84,13.64,24,709.0,294200.0,0,0
+SYN-00416,PL,Salaried,Haryana,Home Purchase,0.448,0.307,90300.0,84,13.88,17,713.0,506400.0,10,31
+SYN-00417,LAP,Salaried,Haryana,Business Expansion,0.703,0.261,54700.0,84,14.33,7,691.0,393700.0,34,10
+SYN-00418,PL,Self-Employed,Haryana,Home Purchase,0.315,0.407,81900.0,120,13.29,21,-1.0,392200.0,0,0
+SYN-00419,HL,Salaried,Uttar Pradesh,Construction,0.709,0.38,56000.0,84,15.88,23,757.0,342400.0,59,34
+SYN-00420,HL,Salaried,Haryana,Business Expansion,0.486,0.431,106900.0,120,16.81,9,731.0,702600.0,0,0
+SYN-00421,HL,Self-Employed,Uttar Pradesh,Construction,0.438,0.429,42900.0,120,14.05,18,803.0,501300.0,0,0
+SYN-00422,PL,Salaried,Haryana,Home Purchase,0.259,0.512,52900.0,84,12.46,18,727.0,742600.0,0,20
+SYN-00423,LAP,Salaried,Haryana,Home Purchase,0.394,0.262,101100.0,240,12.95,7,784.0,863000.0,0,0
+SYN-00424,PL,Self-Employed,Rajasthan,Home Purchase,0.52,0.446,136300.0,240,13.46,3,732.0,556500.0,0,15
+SYN-00425,HL,Salaried,Haryana,Construction,0.318,0.434,27900.0,60,12.29,22,808.0,343400.0,0,0
+SYN-00426,PL,Salaried,Haryana,Working Capital,0.608,0.525,127300.0,84,12.88,19,726.0,744300.0,0,24
+SYN-00427,LAP,Salaried,Haryana,Home Purchase,0.614,0.484,59800.0,84,14.81,22,696.0,558400.0,147,267
+SYN-00428,LAP,Salaried,Rajasthan,Business Expansion,0.34,0.519,35000.0,60,13.2,13,849.0,1626100.0,0,7
+SYN-00429,PL,Salaried,Uttarakhand,Business Expansion,0.626,0.459,18400.0,120,12.2,16,778.0,516600.0,0,19
+SYN-00430,HL,Self-Employed,Uttarakhand,Home Purchase,0.173,0.575,39900.0,120,11.95,29,811.0,627100.0,0,0
+SYN-00431,HL,Salaried,Rajasthan,Home Purchase,0.57,0.395,69800.0,120,14.45,9,659.0,511600.0,0,16
+SYN-00432,LAP,Self-Employed,Haryana,Home Purchase,0.686,0.518,71700.0,84,13.44,20,713.0,421000.0,0,0
+SYN-00433,HL,Salaried,Rajasthan,Business Expansion,0.563,0.352,112600.0,84,13.45,6,759.0,388700.0,0,6
+SYN-00434,HL,Salaried,Haryana,Construction,0.602,0.464,53000.0,240,12.83,4,740.0,512500.0,0,25
+SYN-00435,HL,Salaried,Uttarakhand,Business Expansion,0.427,0.483,46600.0,240,15.37,28,769.0,574100.0,0,13
+SYN-00436,HL,Self-Employed,Uttar Pradesh,Working Capital,0.392,0.393,63400.0,60,11.53,6,696.0,788000.0,0,0
+SYN-00437,PL,Salaried,Uttar Pradesh,Business Expansion,0.399,0.13,80900.0,120,10.62,20,769.0,516300.0,0,14
+SYN-00438,LAP,Salaried,Rajasthan,Working Capital,0.526,0.111,85500.0,120,12.92,16,696.0,351000.0,0,22
+SYN-00439,HL,Self-Employed,Haryana,Business Expansion,0.429,0.599,49500.0,120,12.71,24,723.0,375700.0,0,23
+SYN-00440,HL,Self-Employed,Rajasthan,Working Capital,0.58,0.564,111400.0,120,13.31,17,672.0,228300.0,0,14
+SYN-00441,HL,Salaried,Uttar Pradesh,Working Capital,0.776,0.655,53900.0,180,13.69,21,752.0,1015200.0,0,13
+SYN-00442,LAP,Self-Employed,Uttarakhand,Business Expansion,0.514,0.466,48000.0,60,13.59,27,744.0,337500.0,0,17
+SYN-00443,PL,Salaried,Rajasthan,Working Capital,0.418,0.387,51500.0,84,13.71,25,780.0,717600.0,22,36
+SYN-00444,PL,Salaried,Haryana,Working Capital,0.318,0.391,121900.0,240,13.66,22,790.0,508000.0,0,0
+SYN-00445,HL,Salaried,Rajasthan,Construction,0.505,0.377,77500.0,60,12.0,7,773.0,515000.0,0,18
+SYN-00446,HL,Salaried,Uttar Pradesh,Business Expansion,0.557,0.403,49100.0,60,15.46,7,739.0,417200.0,33,13
+SYN-00447,LAP,Salaried,Uttarakhand,Construction,0.585,0.598,113900.0,180,13.05,16,689.0,298400.0,0,3
+SYN-00448,LAP,Self-Employed,Haryana,Working Capital,0.503,0.73,175400.0,180,13.43,20,658.0,272600.0,13,3
+SYN-00449,LAP,Salaried,Uttar Pradesh,Construction,0.623,0.517,77900.0,120,12.12,21,-1.0,1049900.0,0,0
+SYN-00450,LAP,Self-Employed,Uttarakhand,Working Capital,0.473,0.442,128800.0,180,13.22,24,647.0,468400.0,0,0
+SYN-00451,LAP,Self-Employed,Uttar Pradesh,Business Expansion,0.433,0.338,113400.0,120,12.51,5,726.0,776600.0,0,0
+SYN-00452,HL,Self-Employed,Haryana,Working Capital,0.569,0.702,47600.0,60,13.71,7,626.0,884200.0,278,398
+SYN-00453,HL,Self-Employed,Haryana,Home Purchase,0.481,0.561,62700.0,120,15.69,7,672.0,360300.0,377,497
+SYN-00454,HL,Self-Employed,Delhi,Business Expansion,0.743,0.425,40800.0,180,11.78,17,689.0,546800.0,0,0
+SYN-00455,HL,Self-Employed,Haryana,Business Expansion,0.498,0.506,65800.0,180,15.04,20,753.0,452500.0,0,0
+SYN-00456,HL,Salaried,Uttarakhand,Working Capital,0.642,0.445,50600.0,84,14.52,6,703.0,248100.0,52,58
+SYN-00457,LAP,Salaried,Rajasthan,Working Capital,0.385,0.422,65300.0,60,12.78,26,833.0,403200.0,0,0
+SYN-00458,HL,Salaried,Haryana,Business Expansion,0.394,0.322,50800.0,180,12.73,11,729.0,593500.0,0,21
+SYN-00459,HL,Salaried,Haryana,Business Expansion,0.47,0.557,64400.0,84,14.24,20,706.0,344700.0,0,0
+SYN-00460,LAP,Salaried,Uttarakhand,Home Purchase,0.651,0.455,90600.0,60,13.75,23,718.0,376100.0,0,0
+SYN-00461,LAP,Self-Employed,Haryana,Working Capital,0.388,0.524,74100.0,180,12.15,3,709.0,405700.0,0,0
+SYN-00462,HL,Salaried,Uttar Pradesh,Home Purchase,0.3,0.35,35900.0,120,12.43,26,814.0,1271600.0,0,0
+SYN-00463,PL,Self-Employed,Uttarakhand,Business Expansion,0.394,0.333,61700.0,84,10.5,29,839.0,176800.0,0,28
+SYN-00464,PL,Salaried,Uttar Pradesh,Business Expansion,0.493,0.273,40400.0,60,10.97,28,880.0,568500.0,0,1
+SYN-00465,LAP,Salaried,Uttar Pradesh,Construction,0.67,0.503,84700.0,60,12.01,6,728.0,389800.0,0,0
+SYN-00466,LAP,Salaried,Uttarakhand,Home Purchase,0.525,0.348,93900.0,180,13.61,13,738.0,321200.0,0,20
+SYN-00467,HL,Salaried,Uttar Pradesh,Home Purchase,0.694,0.498,70300.0,120,15.05,9,646.0,385000.0,248,368
+SYN-00468,PL,Salaried,Haryana,Working Capital,0.653,0.505,47000.0,60,15.43,15,711.0,617700.0,50,73
+SYN-00469,HL,Salaried,Uttar Pradesh,Construction,0.304,0.414,88300.0,84,11.81,29,791.0,635600.0,0,0
+SYN-00470,PL,Salaried,Delhi,Home Purchase,0.405,0.297,57600.0,60,14.35,23,725.0,485500.0,0,0
+SYN-00471,LAP,Salaried,Uttarakhand,Business Expansion,0.346,0.407,45300.0,60,13.06,23,803.0,764000.0,0,0
+SYN-00472,HL,Salaried,Uttar Pradesh,Home Purchase,0.323,0.515,104500.0,84,12.33,14,722.0,834400.0,0,0
+SYN-00473,HL,Salaried,Haryana,Working Capital,0.607,0.421,104100.0,120,14.03,28,778.0,665400.0,0,10
+SYN-00474,LAP,Salaried,Haryana,Home Purchase,0.572,0.458,106700.0,84,13.93,27,743.0,336700.0,0,4
+SYN-00475,LAP,Salaried,Haryana,Home Purchase,0.489,0.449,57100.0,84,12.6,24,751.0,566500.0,0,8
+SYN-00476,HL,Salaried,Haryana,Home Purchase,0.253,0.491,114200.0,120,14.39,24,-1.0,567800.0,35,44
+SYN-00477,LAP,Salaried,Rajasthan,Construction,0.678,0.29,64200.0,120,12.46,20,880.0,294200.0,0,0
+SYN-00478,PL,Salaried,Haryana,Construction,0.393,0.447,98100.0,60,13.35,5,703.0,201900.0,0,22
+SYN-00479,LAP,Self-Employed,Delhi,Business Expansion,0.85,0.679,47200.0,60,15.17,10,662.0,160900.0,174,294
+SYN-00480,LAP,Self-Employed,Haryana,Construction,0.339,0.356,64900.0,60,12.37,23,698.0,458100.0,0,11
+SYN-00481,HL,Self-Employed,Haryana,Home Purchase,0.489,0.484,21900.0,84,14.72,11,770.0,513500.0,51,23
+SYN-00482,LAP,Salaried,Uttar Pradesh,Home Purchase,0.241,0.316,63400.0,180,12.77,7,777.0,245000.0,0,15
+SYN-00483,HL,Salaried,Haryana,Home Purchase,0.578,0.573,72700.0,60,12.94,28,689.0,746400.0,0,10
+SYN-00484,PL,Salaried,Delhi,Working Capital,0.364,0.438,61100.0,180,13.21,16,765.0,477400.0,0,0
+SYN-00485,HL,Self-Employed,Rajasthan,Home Purchase,0.361,0.356,163400.0,180,14.1,26,758.0,868700.0,0,26
+SYN-00486,LAP,Self-Employed,Delhi,Working Capital,0.289,0.42,46100.0,60,13.06,10,744.0,532500.0,0,9
+SYN-00487,HL,Self-Employed,Haryana,Home Purchase,0.619,0.351,54800.0,60,13.31,12,759.0,259600.0,0,24
+SYN-00488,HL,Self-Employed,Delhi,Home Purchase,0.534,0.304,52100.0,60,12.25,12,787.0,556300.0,0,19
+SYN-00489,LAP,Salaried,Haryana,Home Purchase,0.757,0.337,53800.0,60,14.67,13,726.0,618500.0,0,0
+SYN-00490,LAP,Self-Employed,Rajasthan,Home Purchase,0.483,0.398,106700.0,120,11.97,14,700.0,336400.0,45,74
+SYN-00491,LAP,Self-Employed,Uttar Pradesh,Business Expansion,0.548,0.604,138100.0,60,14.59,11,747.0,215100.0,0,14
+SYN-00492,PL,Salaried,Haryana,Construction,0.328,0.362,54600.0,180,11.4,24,760.0,465200.0,0,0
+SYN-00493,PL,Self-Employed,Haryana,Home Purchase,0.487,0.519,50900.0,120,12.45,11,-1.0,268200.0,0,17
+SYN-00494,PL,Salaried,Haryana,Business Expansion,0.419,0.351,44500.0,180,12.74,14,722.0,774900.0,0,0
+SYN-00495,HL,Self-Employed,Haryana,Business Expansion,0.612,0.573,122100.0,180,16.42,26,783.0,360900.0,0,21
+SYN-00496,LAP,Self-Employed,Rajasthan,Working Capital,0.512,0.256,140200.0,120,13.71,14,757.0,1047900.0,0,0
+SYN-00497,PL,Salaried,Delhi,Working Capital,0.599,0.437,71600.0,240,13.94,3,771.0,153000.0,0,0
+SYN-00498,HL,Self-Employed,Rajasthan,Business Expansion,0.279,0.356,45800.0,240,12.26,3,795.0,473300.0,0,0
+SYN-00499,HL,Salaried,Haryana,Working Capital,0.53,0.608,45800.0,84,10.5,14,872.0,904100.0,0,0
+SYN-00500,PL,Self-Employed,Uttar Pradesh,Business Expansion,0.577,0.581,70800.0,60,14.75,20,-1.0,283500.0,43,50
+SYN-00501,LAP,Self-Employed,Haryana,Construction,0.515,0.435,87200.0,84,13.67,28,676.0,408600.0,0,180
+SYN-00502,LAP,Self-Employed,Uttar Pradesh,Business Expansion,0.372,0.483,30600.0,84,12.11,6,722.0,361700.0,0,12
+SYN-00503,PL,Self-Employed,Haryana,Home Purchase,0.343,0.589,71400.0,120,12.45,17,807.0,314300.0,0,0
+SYN-00504,LAP,Salaried,Haryana,Business Expansion,0.531,0.139,192000.0,84,10.66,10,782.0,500000.0,0,0
+SYN-00505,HL,Salaried,Uttar Pradesh,Working Capital,0.504,0.339,69300.0,120,13.93,15,737.0,231500.0,0,9
+SYN-00506,HL,Salaried,Haryana,Home Purchase,0.666,0.547,117800.0,180,13.5,14,558.0,418500.0,376,496
+SYN-00507,HL,Salaried,Uttar Pradesh,Working Capital,0.495,0.43,94600.0,84,13.92,11,736.0,572600.0,0,148
+SYN-00508,HL,Salaried,Uttarakhand,Working Capital,0.76,0.389,47000.0,120,12.17,3,737.0,397300.0,0,6
+SYN-00509,LAP,Salaried,Haryana,Home Purchase,0.685,0.343,61800.0,84,13.46,4,657.0,268300.0,0,103
+SYN-00510,PL,Salaried,Rajasthan,Construction,0.32,0.512,78200.0,180,12.56,17,843.0,740500.0,0,27
+SYN-00511,HL,Salaried,Uttar Pradesh,Working Capital,0.449,0.293,48800.0,120,12.14,9,692.0,637400.0,0,20
+SYN-00512,HL,Self-Employed,Delhi,Working Capital,0.48,0.435,46900.0,60,13.74,11,772.0,262900.0,0,28
+SYN-00513,PL,Salaried,Uttarakhand,Home Purchase,0.512,0.55,145100.0,120,13.22,5,711.0,231600.0,0,0
+SYN-00514,HL,Self-Employed,Uttarakhand,Home Purchase,0.463,0.487,44200.0,60,13.47,4,784.0,274900.0,0,0
+SYN-00515,LAP,Salaried,Uttarakhand,Business Expansion,0.573,0.369,115600.0,180,13.31,6,762.0,581100.0,0,29
+SYN-00516,LAP,Salaried,Delhi,Home Purchase,0.714,0.349,57000.0,120,13.88,13,671.0,507800.0,0,13
+SYN-00517,LAP,Salaried,Uttarakhand,Home Purchase,0.301,0.393,76400.0,120,12.18,7,723.0,656700.0,0,17
+SYN-00518,HL,Salaried,Haryana,Home Purchase,0.418,0.419,87600.0,120,14.23,9,736.0,375800.0,0,0
+SYN-00519,LAP,Salaried,Haryana,Home Purchase,0.54,0.552,49000.0,180,14.52,11,671.0,278600.0,236,356
+SYN-00520,HL,Salaried,Uttarakhand,Business Expansion,0.389,0.261,102000.0,180,12.11,10,766.0,700400.0,0,1
+SYN-00521,LAP,Salaried,Haryana,Business Expansion,0.687,0.487,31300.0,120,14.38,3,828.0,335500.0,0,16
+SYN-00522,HL,Salaried,Haryana,Business Expansion,0.7,0.528,80100.0,180,14.98,6,660.0,485700.0,12,31
+SYN-00523,LAP,Self-Employed,Haryana,Business Expansion,0.602,0.459,24500.0,120,12.96,28,751.0,203800.0,0,0
+SYN-00524,LAP,Salaried,Uttar Pradesh,Construction,0.553,0.664,59000.0,180,14.77,21,734.0,332700.0,26,1
+SYN-00525,HL,Self-Employed,Haryana,Home Purchase,0.439,0.384,111300.0,180,12.12,6,792.0,732900.0,0,0
+SYN-00526,HL,Salaried,Uttarakhand,Home Purchase,0.413,0.45,86100.0,60,14.23,10,682.0,309200.0,52,60
+SYN-00527,HL,Self-Employed,Delhi,Home Purchase,0.602,0.402,40300.0,84,13.29,13,-1.0,664800.0,0,24
+SYN-00528,HL,Self-Employed,Delhi,Home Purchase,0.574,0.444,42300.0,84,12.46,27,653.0,137900.0,0,0
+SYN-00529,HL,Self-Employed,Haryana,Home Purchase,0.748,0.519,47300.0,60,15.14,26,638.0,334500.0,264,384
+SYN-00530,PL,Self-Employed,Uttar Pradesh,Home Purchase,0.453,0.349,81900.0,84,12.7,23,767.0,406100.0,0,0
+SYN-00531,HL,Salaried,Uttar Pradesh,Home Purchase,0.427,0.201,31600.0,60,12.39,5,767.0,1057300.0,0,0
+SYN-00532,PL,Salaried,Uttar Pradesh,Business Expansion,0.493,0.371,75400.0,120,12.57,16,759.0,246600.0,0,0
+SYN-00533,PL,Salaried,Uttarakhand,Business Expansion,0.634,0.509,81100.0,60,16.82,16,771.0,618800.0,0,6
+SYN-00534,HL,Self-Employed,Haryana,Working Capital,0.23,0.385,73000.0,84,11.58,20,741.0,750500.0,0,24
+SYN-00535,LAP,Self-Employed,Rajasthan,Business Expansion,0.627,0.602,88000.0,120,11.94,25,707.0,308400.0,0,0
+SYN-00536,PL,Salaried,Haryana,Business Expansion,0.465,0.619,84400.0,84,11.47,11,767.0,367000.0,0,0
+SYN-00537,LAP,Self-Employed,Delhi,Home Purchase,0.442,0.583,52300.0,120,15.18,18,668.0,474900.0,21,4
+SYN-00538,HL,Salaried,Uttar Pradesh,Business Expansion,0.106,0.469,37100.0,180,12.92,10,880.0,210900.0,0,0
+SYN-00539,HL,Self-Employed,Haryana,Home Purchase,0.436,0.487,82700.0,240,12.19,8,808.0,352400.0,0,0
+SYN-00540,HL,Self-Employed,Uttarakhand,Construction,0.573,0.537,54500.0,120,13.43,11,812.0,837400.0,0,0
+SYN-00541,LAP,Salaried,Haryana,Construction,0.651,0.594,60200.0,60,13.58,22,-1.0,574500.0,0,0
+SYN-00542,PL,Self-Employed,Delhi,Construction,0.558,0.557,88900.0,60,13.51,14,664.0,409100.0,0,0
+SYN-00543,PL,Self-Employed,Uttar Pradesh,Home Purchase,0.725,0.512,140400.0,240,13.1,21,746.0,468100.0,0,10
+SYN-00544,HL,Salaried,Haryana,Business Expansion,0.48,0.417,73400.0,120,13.48,21,765.0,591500.0,0,0
+SYN-00545,LAP,Salaried,Haryana,Working Capital,0.605,0.438,95000.0,180,14.25,12,704.0,651000.0,0,0
+SYN-00546,HL,Salaried,Delhi,Business Expansion,0.458,0.426,37600.0,120,14.06,28,746.0,335000.0,0,0
+SYN-00547,PL,Self-Employed,Haryana,Business Expansion,0.378,0.462,88500.0,60,12.02,4,726.0,953000.0,0,0
+SYN-00548,HL,Salaried,Delhi,Construction,0.461,0.413,67300.0,120,13.89,27,746.0,854400.0,0,5
+SYN-00549,PL,Self-Employed,Delhi,Home Purchase,0.292,0.464,120600.0,180,16.01,3,764.0,620700.0,0,0
+SYN-00550,PL,Self-Employed,Uttarakhand,Business Expansion,0.678,0.234,55600.0,180,14.06,13,739.0,290300.0,0,0
+SYN-00551,HL,Salaried,Haryana,Construction,0.456,0.65,62700.0,84,14.81,25,637.0,265600.0,0,6
+SYN-00552,HL,Salaried,Uttarakhand,Home Purchase,0.422,0.443,115000.0,120,14.28,21,686.0,375800.0,0,0
+SYN-00553,PL,Self-Employed,Rajasthan,Home Purchase,0.481,0.597,59600.0,60,15.4,11,694.0,456100.0,243,363
+SYN-00554,HL,Self-Employed,Haryana,Working Capital,0.47,0.591,44700.0,240,13.54,26,744.0,182700.0,0,0
+SYN-00555,LAP,Salaried,Haryana,Business Expansion,0.693,0.465,236300.0,84,14.15,6,630.0,566600.0,0,0
+SYN-00556,PL,Salaried,Haryana,Construction,0.706,0.557,47800.0,180,13.62,21,822.0,842200.0,0,25
+SYN-00557,LAP,Salaried,Uttar Pradesh,Business Expansion,0.239,0.274,77100.0,84,12.94,17,-1.0,590200.0,0,18
+SYN-00558,HL,Self-Employed,Uttarakhand,Construction,0.383,0.628,94400.0,120,11.81,8,-1.0,315500.0,0,0
+SYN-00559,HL,Salaried,Uttar Pradesh,Construction,0.323,0.514,88600.0,120,13.17,27,816.0,297400.0,0,0
+SYN-00560,HL,Self-Employed,Uttar Pradesh,Home Purchase,0.614,0.467,67500.0,84,13.38,23,712.0,514000.0,0,0
+SYN-00561,PL,Salaried,Haryana,Construction,0.554,0.609,65500.0,180,13.46,3,697.0,409800.0,0,14
+SYN-00562,HL,Self-Employed,Haryana,Business Expansion,0.427,0.336,65500.0,180,16.22,5,754.0,552100.0,0,25
+SYN-00563,HL,Salaried,Haryana,Home Purchase,0.463,0.383,47100.0,180,11.35,4,847.0,597700.0,0,0
+SYN-00564,HL,Salaried,Delhi,Business Expansion,0.497,0.639,179100.0,84,15.18,14,782.0,763700.0,0,8
+SYN-00565,PL,Self-Employed,Uttarakhand,Home Purchase,0.738,0.3,62400.0,180,13.23,14,730.0,251200.0,0,0
+SYN-00566,HL,Self-Employed,Uttar Pradesh,Business Expansion,0.556,0.498,96900.0,120,13.5,22,766.0,494300.0,0,25
+SYN-00567,PL,Salaried,Delhi,Business Expansion,0.541,0.471,66300.0,120,15.55,21,798.0,368900.0,0,0
+SYN-00568,LAP,Salaried,Haryana,Business Expansion,0.213,0.674,59700.0,120,12.98,3,664.0,421100.0,0,0
+SYN-00569,PL,Salaried,Haryana,Business Expansion,0.503,0.301,58700.0,120,12.93,15,762.0,681600.0,0,22
+SYN-00570,PL,Salaried,Haryana,Working Capital,0.663,0.539,40900.0,60,12.32,24,758.0,719700.0,0,26
+SYN-00571,PL,Salaried,Rajasthan,Construction,0.655,0.391,68400.0,120,12.6,27,757.0,890200.0,0,0
+SYN-00572,PL,Self-Employed,Uttarakhand,Business Expansion,0.294,0.418,59600.0,60,14.59,10,721.0,547300.0,0,24
+SYN-00573,HL,Salaried,Uttarakhand,Business Expansion,0.408,0.283,133100.0,84,12.25,4,794.0,418700.0,0,0
+SYN-00574,LAP,Self-Employed,Haryana,Home Purchase,0.367,0.351,42000.0,60,14.31,7,739.0,389900.0,0,118
+SYN-00575,LAP,Salaried,Haryana,Home Purchase,0.618,0.418,63400.0,84,11.01,12,-1.0,185800.0,0,2
+SYN-00576,LAP,Salaried,Uttarakhand,Construction,0.609,0.406,43900.0,180,12.76,14,701.0,864500.0,40,46
+SYN-00577,PL,Self-Employed,Uttar Pradesh,Home Purchase,0.483,0.586,126700.0,120,14.27,12,725.0,376600.0,9,2
+SYN-00578,PL,Salaried,Rajasthan,Construction,0.489,0.371,50500.0,60,11.73,5,769.0,569700.0,0,17
+SYN-00579,LAP,Self-Employed,Delhi,Construction,0.209,0.347,91500.0,180,15.31,12,723.0,621300.0,0,17
+SYN-00580,LAP,Salaried,Uttar Pradesh,Business Expansion,0.225,0.277,137200.0,240,10.5,10,880.0,237400.0,0,0
+SYN-00581,LAP,Self-Employed,Uttarakhand,Home Purchase,0.435,0.426,75100.0,180,11.54,16,794.0,278800.0,0,29
+SYN-00582,HL,Self-Employed,Rajasthan,Working Capital,0.584,0.408,40300.0,180,13.68,5,770.0,958900.0,0,0
+SYN-00583,HL,Self-Employed,Uttar Pradesh,Construction,0.203,0.4,43100.0,240,12.06,24,825.0,511600.0,0,1
+SYN-00584,HL,Salaried,Uttarakhand,Business Expansion,0.497,0.555,101700.0,120,12.55,14,731.0,330900.0,0,0
+SYN-00585,HL,Salaried,Rajasthan,Home Purchase,0.741,0.658,35300.0,240,17.14,11,630.0,415300.0,175,295
+SYN-00586,HL,Salaried,Haryana,Construction,0.255,0.36,95900.0,240,11.56,27,671.0,761600.0,0,0
+SYN-00587,LAP,Salaried,Delhi,Home Purchase,0.477,0.304,82300.0,84,12.63,23,748.0,705800.0,0,0
+SYN-00588,HL,Salaried,Haryana,Business Expansion,0.522,0.469,85000.0,180,13.48,6,766.0,212600.0,0,0
+SYN-00589,PL,Salaried,Uttarakhand,Home Purchase,0.802,0.578,79500.0,180,15.5,6,668.0,1001600.0,205,325
+SYN-00590,LAP,Salaried,Delhi,Working Capital,0.399,0.243,53000.0,180,12.98,3,819.0,717200.0,0,0
+SYN-00591,HL,Salaried,Uttarakhand,Home Purchase,0.494,0.373,46200.0,180,12.87,18,738.0,409900.0,0,0
+SYN-00592,HL,Salaried,Uttar Pradesh,Business Expansion,0.712,0.469,87200.0,84,14.63,12,734.0,243800.0,333,453
+SYN-00593,HL,Salaried,Uttarakhand,Home Purchase,0.242,0.347,62900.0,120,11.95,13,785.0,749400.0,0,0
+SYN-00594,PL,Salaried,Haryana,Business Expansion,0.397,0.31,23500.0,120,13.22,16,806.0,561400.0,0,0
+SYN-00595,HL,Self-Employed,Haryana,Construction,0.42,0.5,101300.0,180,11.99,17,778.0,213400.0,0,28
+SYN-00596,LAP,Salaried,Haryana,Construction,0.452,0.263,47800.0,180,15.1,3,826.0,393900.0,0,0
+SYN-00597,PL,Salaried,Uttar Pradesh,Home Purchase,0.651,0.333,84600.0,180,13.39,5,635.0,2111900.0,0,27
+SYN-00598,PL,Salaried,Uttar Pradesh,Home Purchase,0.581,0.429,134200.0,180,13.68,24,711.0,446100.0,0,19
+SYN-00599,HL,Self-Employed,Haryana,Home Purchase,0.304,0.344,84900.0,240,10.92,28,840.0,305300.0,0,0
+SYN-00600,HL,Salaried,Delhi,Working Capital,0.547,0.33,109800.0,60,12.61,25,792.0,267200.0,0,24
+SYN-00601,HL,Self-Employed,Uttar Pradesh,Construction,0.644,0.36,82100.0,240,12.16,27,771.0,1073100.0,0,0
+SYN-00602,HL,Self-Employed,Uttar Pradesh,Home Purchase,0.477,0.474,134900.0,60,13.55,15,682.0,676000.0,51,142
+SYN-00603,HL,Salaried,Uttar Pradesh,Working Capital,0.48,0.379,47700.0,120,12.58,25,796.0,894200.0,0,10
+SYN-00604,LAP,Self-Employed,Haryana,Home Purchase,0.439,0.433,76700.0,60,12.01,26,801.0,500900.0,0,5
+SYN-00605,PL,Self-Employed,Uttarakhand,Construction,0.525,0.411,94800.0,120,14.63,27,705.0,828200.0,0,19
+SYN-00606,LAP,Salaried,Uttar Pradesh,Business Expansion,0.35,0.636,63200.0,84,13.33,7,728.0,289500.0,0,0
+SYN-00607,LAP,Salaried,Haryana,Working Capital,0.696,0.521,118500.0,60,12.96,6,777.0,479900.0,0,0
+SYN-00608,HL,Self-Employed,Rajasthan,Business Expansion,0.306,0.285,68900.0,120,11.76,13,880.0,510700.0,0,9
+SYN-00609,PL,Self-Employed,Delhi,Construction,0.655,0.486,177800.0,180,14.92,16,755.0,883100.0,0,0
+SYN-00610,LAP,Salaried,Uttarakhand,Working Capital,0.363,0.411,206400.0,60,12.89,28,778.0,518900.0,0,22
+SYN-00611,PL,Salaried,Delhi,Home Purchase,0.439,0.583,81500.0,120,13.59,11,729.0,323600.0,0,169
+SYN-00612,PL,Self-Employed,Rajasthan,Working Capital,0.56,0.319,105100.0,60,10.93,25,815.0,456800.0,0,0
+SYN-00613,HL,Salaried,Haryana,Working Capital,0.646,0.549,120600.0,60,12.71,26,719.0,191300.0,0,0
+SYN-00614,HL,Self-Employed,Uttarakhand,Working Capital,0.477,0.414,45700.0,60,11.58,29,777.0,138600.0,0,10
+SYN-00615,HL,Salaried,Uttarakhand,Home Purchase,0.514,0.535,44900.0,120,13.78,8,737.0,670400.0,0,0
+SYN-00616,HL,Self-Employed,Haryana,Home Purchase,0.508,0.615,121600.0,180,14.6,9,-1.0,366800.0,0,0
+SYN-00617,PL,Self-Employed,Haryana,Business Expansion,0.513,0.482,81100.0,120,12.83,8,680.0,388200.0,0,16
+SYN-00618,HL,Self-Employed,Haryana,Construction,0.384,0.393,69400.0,180,12.44,22,742.0,670300.0,0,0
+SYN-00619,LAP,Self-Employed,Uttarakhand,Construction,0.696,0.573,65400.0,120,13.84,21,694.0,889600.0,27,3
+SYN-00620,LAP,Self-Employed,Delhi,Working Capital,0.39,0.41,25900.0,180,12.26,13,845.0,578000.0,0,0
+SYN-00621,HL,Self-Employed,Delhi,Business Expansion,0.68,0.62,66900.0,240,13.99,5,720.0,1160100.0,0,0
+SYN-00622,HL,Self-Employed,Haryana,Home Purchase,0.478,0.471,51000.0,84,13.43,17,701.0,568800.0,0,0
+SYN-00623,LAP,Salaried,Haryana,Construction,0.465,0.378,116200.0,60,15.09,22,737.0,514600.0,0,20
+SYN-00624,LAP,Self-Employed,Uttar Pradesh,Home Purchase,0.619,0.428,110200.0,60,15.13,15,798.0,498900.0,0,0
+SYN-00625,HL,Salaried,Uttar Pradesh,Home Purchase,0.471,0.302,98900.0,120,14.38,10,632.0,232600.0,0,0
+SYN-00626,HL,Self-Employed,Rajasthan,Home Purchase,0.44,0.485,90300.0,120,13.84,18,709.0,713500.0,0,0
+SYN-00627,LAP,Self-Employed,Delhi,Working Capital,0.578,0.436,33400.0,60,14.17,20,815.0,130300.0,39,26
+SYN-00628,HL,Salaried,Rajasthan,Business Expansion,0.545,0.508,103700.0,180,13.27,18,803.0,330000.0,0,0
+SYN-00629,PL,Salaried,Delhi,Construction,0.276,0.2,117700.0,240,11.22,26,775.0,447500.0,0,26
+SYN-00630,HL,Salaried,Rajasthan,Construction,0.582,0.543,112600.0,84,16.42,11,682.0,298100.0,382,502
+SYN-00631,HL,Self-Employed,Uttar Pradesh,Business Expansion,0.654,0.692,154700.0,84,15.94,19,654.0,353000.0,396,516
+SYN-00632,LAP,Salaried,Haryana,Working Capital,0.579,0.215,35300.0,84,13.44,26,792.0,1109800.0,0,0
+SYN-00633,LAP,Salaried,Haryana,Working Capital,0.372,0.555,71700.0,84,12.08,8,880.0,768400.0,0,23
+SYN-00634,LAP,Self-Employed,Uttar Pradesh,Construction,0.698,0.392,53700.0,180,14.99,10,768.0,314000.0,0,0
+SYN-00635,HL,Self-Employed,Haryana,Working Capital,0.464,0.45,80900.0,120,11.84,4,726.0,349800.0,0,0
+SYN-00636,PL,Salaried,Haryana,Construction,0.46,0.498,74700.0,60,15.19,13,782.0,233600.0,0,0
+SYN-00637,LAP,Salaried,Rajasthan,Construction,0.413,0.467,72000.0,120,12.42,4,748.0,629400.0,0,0
+SYN-00638,LAP,Self-Employed,Haryana,Working Capital,0.377,0.506,110900.0,60,12.56,23,673.0,390500.0,0,3
+SYN-00639,HL,Self-Employed,Rajasthan,Construction,0.407,0.576,42700.0,120,13.17,5,642.0,165500.0,0,7
+SYN-00640,HL,Self-Employed,Delhi,Construction,0.347,0.427,51600.0,120,10.65,21,722.0,465300.0,0,0
+SYN-00641,LAP,Salaried,Uttarakhand,Home Purchase,0.678,0.661,43600.0,120,14.71,18,675.0,551000.0,0,0
+SYN-00642,HL,Salaried,Uttarakhand,Construction,0.619,0.605,52800.0,120,14.1,29,615.0,716100.0,304,424
+SYN-00643,LAP,Salaried,Haryana,Construction,0.452,0.655,41500.0,180,13.81,12,748.0,426500.0,0,2
+SYN-00644,HL,Self-Employed,Uttarakhand,Business Expansion,0.627,0.523,73500.0,60,14.36,12,698.0,367200.0,0,0
+SYN-00645,PL,Salaried,Haryana,Construction,0.678,0.262,68700.0,180,12.71,9,604.0,1194400.0,0,0
+SYN-00646,LAP,Salaried,Rajasthan,Home Purchase,0.688,0.742,48900.0,60,13.72,17,671.0,443900.0,0,18
+SYN-00647,PL,Self-Employed,Haryana,Working Capital,0.294,0.306,124400.0,84,10.81,8,779.0,634000.0,0,4
+SYN-00648,LAP,Self-Employed,Haryana,Home Purchase,0.45,0.608,70300.0,180,13.24,6,-1.0,337800.0,0,0
+SYN-00649,HL,Self-Employed,Uttarakhand,Working Capital,0.694,0.433,121700.0,120,15.76,28,822.0,624700.0,0,0
+SYN-00650,PL,Salaried,Uttarakhand,Home Purchase,0.64,0.649,57800.0,60,15.76,21,648.0,213700.0,364,484
+SYN-00651,LAP,Salaried,Uttar Pradesh,Business Expansion,0.457,0.372,73400.0,120,13.1,6,786.0,351100.0,0,17
+SYN-00652,LAP,Salaried,Uttarakhand,Construction,0.686,0.596,49700.0,180,14.22,19,681.0,241800.0,130,250
+SYN-00653,HL,Salaried,Haryana,Working Capital,0.555,0.369,79600.0,240,12.57,11,777.0,326900.0,0,5
+SYN-00654,LAP,Salaried,Uttarakhand,Home Purchase,0.467,0.637,96100.0,120,14.1,7,682.0,826700.0,0,0
+SYN-00655,PL,Salaried,Haryana,Working Capital,0.545,0.51,59200.0,60,13.34,15,726.0,325700.0,0,0
+SYN-00656,LAP,Self-Employed,Haryana,Construction,0.559,0.5,99000.0,120,13.33,24,736.0,633600.0,0,0
+SYN-00657,HL,Self-Employed,Haryana,Business Expansion,0.371,0.242,50000.0,60,12.69,3,741.0,944700.0,0,0
+SYN-00658,LAP,Self-Employed,Haryana,Construction,0.574,0.502,93400.0,60,13.51,12,687.0,436400.0,46,24
+SYN-00659,LAP,Salaried,Haryana,Home Purchase,0.347,0.475,57800.0,120,13.61,27,709.0,727100.0,0,0
+SYN-00660,PL,Salaried,Uttar Pradesh,Construction,0.28,0.388,122800.0,180,10.98,13,844.0,577000.0,0,0
+SYN-00661,HL,Salaried,Haryana,Home Purchase,0.431,0.545,75300.0,60,14.21,5,760.0,468900.0,0,3
+SYN-00662,HL,Salaried,Haryana,Home Purchase,0.503,0.368,155800.0,180,12.76,14,751.0,643800.0,0,11
+SYN-00663,PL,Salaried,Uttar Pradesh,Business Expansion,0.441,0.438,44700.0,180,11.4,21,759.0,1110100.0,0,0
+SYN-00664,LAP,Salaried,Haryana,Construction,0.417,0.564,37900.0,180,13.54,29,739.0,321700.0,0,0
+SYN-00665,LAP,Self-Employed,Uttarakhand,Home Purchase,0.404,0.137,63500.0,84,10.5,19,761.0,273900.0,0,10
+SYN-00666,LAP,Salaried,Rajasthan,Home Purchase,0.265,0.428,44600.0,84,12.9,4,800.0,265900.0,0,0
+SYN-00667,HL,Self-Employed,Uttar Pradesh,Home Purchase,0.58,0.441,37800.0,60,13.64,24,695.0,727400.0,0,0
+SYN-00668,LAP,Salaried,Rajasthan,Home Purchase,0.604,0.333,100900.0,84,14.93,24,716.0,778200.0,0,21
+SYN-00669,HL,Salaried,Haryana,Business Expansion,0.337,0.355,89600.0,84,12.52,20,757.0,338200.0,0,0
+SYN-00670,HL,Salaried,Haryana,Home Purchase,0.523,0.612,55300.0,84,13.07,27,-1.0,152100.0,0,193
+SYN-00671,LAP,Salaried,Uttarakhand,Working Capital,0.561,0.568,60100.0,60,11.7,23,756.0,315700.0,0,14
+SYN-00672,LAP,Salaried,Delhi,Home Purchase,0.214,0.401,59200.0,60,12.17,9,734.0,581800.0,0,1
+SYN-00673,PL,Self-Employed,Delhi,Home Purchase,0.485,0.472,170800.0,240,11.23,14,880.0,427900.0,0,0
+SYN-00674,HL,Salaried,Haryana,Working Capital,0.85,0.579,49100.0,180,15.99,16,751.0,484200.0,0,21
+SYN-00675,HL,Salaried,Delhi,Home Purchase,0.506,0.459,39200.0,84,13.77,16,786.0,340600.0,0,0
+SYN-00676,PL,Self-Employed,Uttar Pradesh,Construction,0.629,0.5,86500.0,240,16.34,20,692.0,734600.0,173,293
+SYN-00677,HL,Salaried,Haryana,Working Capital,0.614,0.407,64200.0,84,13.55,21,809.0,525200.0,0,9
+SYN-00678,HL,Self-Employed,Haryana,Working Capital,0.721,0.553,177400.0,120,13.63,5,691.0,593200.0,0,19
+SYN-00679,HL,Salaried,Rajasthan,Business Expansion,0.607,0.437,58500.0,180,13.33,18,631.0,479000.0,0,13
+SYN-00680,LAP,Self-Employed,Haryana,Home Purchase,0.29,0.386,100200.0,120,15.26,4,691.0,575000.0,0,12
+SYN-00681,PL,Salaried,Delhi,Business Expansion,0.605,0.313,113200.0,84,14.31,16,743.0,556400.0,0,0
+SYN-00682,LAP,Salaried,Uttarakhand,Working Capital,0.85,0.596,52300.0,84,13.44,14,703.0,278200.0,19,45
+SYN-00683,LAP,Self-Employed,Uttarakhand,Working Capital,0.543,0.369,54600.0,120,14.71,8,-1.0,533100.0,0,0
+SYN-00684,HL,Self-Employed,Uttarakhand,Home Purchase,0.335,0.461,105700.0,120,12.86,29,815.0,657200.0,0,0
+SYN-00685,HL,Salaried,Delhi,Construction,0.505,0.55,98400.0,120,12.66,9,774.0,788300.0,0,0
+SYN-00686,LAP,Self-Employed,Haryana,Home Purchase,0.394,0.359,36400.0,120,11.3,4,748.0,544700.0,0,0
+SYN-00687,HL,Salaried,Haryana,Home Purchase,0.738,0.52,39000.0,84,15.33,12,-1.0,273000.0,53,90
+SYN-00688,HL,Salaried,Uttar Pradesh,Business Expansion,0.358,0.41,24200.0,120,13.23,23,707.0,294900.0,0,0
+SYN-00689,HL,Salaried,Uttar Pradesh,Home Purchase,0.483,0.467,98900.0,84,13.26,3,828.0,355900.0,0,0
+SYN-00690,HL,Self-Employed,Haryana,Home Purchase,0.416,0.59,63400.0,180,13.35,16,734.0,486400.0,0,0
+SYN-00691,LAP,Salaried,Haryana,Home Purchase,0.42,0.305,69300.0,180,12.73,14,721.0,416200.0,0,8
+SYN-00692,LAP,Self-Employed,Haryana,Construction,0.735,0.555,31700.0,120,13.89,26,679.0,252200.0,0,1
+SYN-00693,HL,Salaried,Haryana,Home Purchase,0.377,0.441,53400.0,180,12.16,3,790.0,251500.0,0,15
+SYN-00694,LAP,Self-Employed,Haryana,Construction,0.383,0.39,63000.0,60,13.48,3,737.0,154900.0,0,0
+SYN-00695,LAP,Self-Employed,Rajasthan,Home Purchase,0.316,0.397,57500.0,84,12.64,18,710.0,93000.0,0,26
+SYN-00696,LAP,Salaried,Haryana,Working Capital,0.136,0.376,92800.0,120,12.59,7,754.0,414200.0,0,0
+SYN-00697,PL,Salaried,Rajasthan,Home Purchase,0.292,0.436,102700.0,120,12.65,22,765.0,1411400.0,0,0
+SYN-00698,HL,Salaried,Rajasthan,Construction,0.459,0.462,218500.0,180,12.26,10,745.0,1086400.0,0,2
+SYN-00699,PL,Self-Employed,Haryana,Home Purchase,0.606,0.496,73700.0,240,13.54,18,797.0,271300.0,0,0
+SYN-00700,HL,Salaried,Uttarakhand,Home Purchase,0.5,0.407,110500.0,84,13.03,4,714.0,476800.0,27,45
+SYN-00701,HL,Salaried,Uttarakhand,Home Purchase,0.674,0.537,51300.0,84,13.54,21,-1.0,212700.0,0,0
+SYN-00702,HL,Salaried,Uttarakhand,Home Purchase,0.352,0.515,37400.0,120,11.13,16,743.0,229600.0,0,25
+SYN-00703,LAP,Self-Employed,Haryana,Home Purchase,0.468,0.466,62700.0,84,12.43,3,737.0,243100.0,0,0
+SYN-00704,HL,Salaried,Haryana,Construction,0.433,0.353,32800.0,60,12.32,10,720.0,395200.0,0,21
+SYN-00705,HL,Salaried,Haryana,Business Expansion,0.56,0.39,79600.0,240,12.54,4,-1.0,403800.0,0,0
+SYN-00706,LAP,Self-Employed,Uttarakhand,Home Purchase,0.697,0.424,55400.0,180,14.38,4,768.0,502000.0,0,6
+SYN-00707,HL,Salaried,Rajasthan,Construction,0.322,0.363,29000.0,240,13.83,21,769.0,616400.0,0,22
+SYN-00708,HL,Self-Employed,Uttarakhand,Business Expansion,0.445,0.403,162600.0,84,13.97,14,748.0,373800.0,0,0
+SYN-00709,HL,Salaried,Uttarakhand,Home Purchase,0.691,0.341,54500.0,60,16.37,24,753.0,450500.0,0,0
+SYN-00710,HL,Salaried,Rajasthan,Construction,0.326,0.51,35000.0,120,13.89,9,718.0,256000.0,0,26
+SYN-00711,HL,Self-Employed,Uttarakhand,Home Purchase,0.61,0.502,103600.0,240,13.3,22,634.0,225900.0,0,0
+SYN-00712,HL,Self-Employed,Haryana,Home Purchase,0.584,0.234,57200.0,60,12.04,19,788.0,209100.0,0,0
+SYN-00713,HL,Self-Employed,Delhi,Construction,0.509,0.485,119600.0,60,13.49,20,773.0,612100.0,0,1
+SYN-00714,LAP,Salaried,Uttar Pradesh,Working Capital,0.553,0.434,53500.0,60,12.7,25,773.0,373600.0,0,0
+SYN-00715,PL,Salaried,Haryana,Working Capital,0.638,0.441,63200.0,180,11.97,22,-1.0,173600.0,0,29
+SYN-00716,LAP,Salaried,Uttar Pradesh,Working Capital,0.64,0.333,96800.0,180,13.23,23,779.0,428700.0,0,24
+SYN-00717,LAP,Salaried,Rajasthan,Construction,0.534,0.404,90400.0,120,15.07,22,680.0,236900.0,0,0
+SYN-00718,PL,Salaried,Haryana,Home Purchase,0.415,0.355,106300.0,60,11.57,15,777.0,1014800.0,0,0
+SYN-00719,PL,Salaried,Uttar Pradesh,Home Purchase,0.328,0.345,76200.0,180,11.86,22,795.0,331200.0,0,16
+SYN-00720,LAP,Salaried,Haryana,Home Purchase,0.611,0.447,93500.0,120,12.96,25,718.0,622000.0,0,129
+SYN-00721,PL,Salaried,Haryana,Home Purchase,0.403,0.521,93500.0,60,15.0,22,750.0,762600.0,2,21
+SYN-00722,PL,Salaried,Haryana,Home Purchase,0.333,0.317,96100.0,84,12.82,19,780.0,274500.0,0,28
+SYN-00723,LAP,Salaried,Uttarakhand,Construction,0.423,0.333,77300.0,120,15.0,4,766.0,459600.0,0,0
+SYN-00724,LAP,Self-Employed,Delhi,Home Purchase,0.384,0.369,41100.0,84,12.3,14,846.0,583500.0,0,0
+SYN-00725,HL,Self-Employed,Haryana,Home Purchase,0.621,0.774,85200.0,240,14.25,4,728.0,468700.0,41,48
+SYN-00726,HL,Salaried,Haryana,Business Expansion,0.825,0.387,72900.0,120,14.31,5,714.0,530000.0,0,8
+SYN-00727,LAP,Self-Employed,Haryana,Construction,0.531,0.433,57100.0,84,13.43,12,726.0,227600.0,0,0
+SYN-00728,LAP,Self-Employed,Haryana,Working Capital,0.379,0.722,142400.0,120,12.45,15,787.0,583600.0,0,0
+SYN-00729,HL,Salaried,Uttar Pradesh,Home Purchase,0.555,0.436,42100.0,120,12.19,17,656.0,346900.0,0,0
+SYN-00730,LAP,Salaried,Uttarakhand,Construction,0.556,0.334,147900.0,60,11.24,27,684.0,526900.0,0,1
+SYN-00731,LAP,Salaried,Uttarakhand,Home Purchase,0.676,0.537,72100.0,120,13.67,23,736.0,700800.0,0,0
+SYN-00732,PL,Salaried,Uttar Pradesh,Construction,0.553,0.386,80700.0,84,13.76,14,705.0,618100.0,0,0
+SYN-00733,HL,Self-Employed,Uttar Pradesh,Home Purchase,0.459,0.532,62100.0,84,14.62,12,758.0,526700.0,0,0
+SYN-00734,HL,Self-Employed,Haryana,Home Purchase,0.303,0.443,33800.0,180,13.73,22,781.0,609900.0,0,22
+SYN-00735,LAP,Salaried,Haryana,Business Expansion,0.315,0.414,67800.0,120,12.37,10,720.0,624200.0,0,12
+SYN-00736,PL,Self-Employed,Rajasthan,Home Purchase,0.326,0.65,79900.0,84,13.86,26,665.0,934500.0,0,25
+SYN-00737,PL,Salaried,Delhi,Home Purchase,0.594,0.547,92900.0,60,12.05,24,726.0,434900.0,0,19
+SYN-00738,PL,Self-Employed,Rajasthan,Working Capital,0.239,0.466,76200.0,120,10.99,21,-1.0,480200.0,0,7
+SYN-00739,PL,Self-Employed,Rajasthan,Home Purchase,0.516,0.381,32600.0,84,12.34,9,812.0,705100.0,0,0
+SYN-00740,HL,Salaried,Uttarakhand,Business Expansion,0.564,0.456,33700.0,240,14.05,19,692.0,346200.0,27,36
+SYN-00741,HL,Salaried,Rajasthan,Construction,0.542,0.571,167400.0,120,15.37,25,799.0,226900.0,35,38
+SYN-00742,HL,Self-Employed,Uttar Pradesh,Home Purchase,0.338,0.52,48500.0,180,10.72,4,675.0,566200.0,0,25
+SYN-00743,LAP,Self-Employed,Haryana,Construction,0.463,0.37,161300.0,84,11.77,7,788.0,399100.0,0,0
+SYN-00744,PL,Salaried,Haryana,Home Purchase,0.409,0.635,47700.0,180,13.1,16,736.0,241900.0,0,0
+SYN-00745,HL,Salaried,Haryana,Business Expansion,0.438,0.582,62500.0,60,15.2,12,672.0,568200.0,0,0
+SYN-00746,LAP,Salaried,Haryana,Home Purchase,0.75,0.561,83900.0,84,15.61,22,718.0,904900.0,355,475
+SYN-00747,HL,Self-Employed,Uttar Pradesh,Home Purchase,0.574,0.501,48500.0,60,14.56,13,759.0,195900.0,0,9
+SYN-00748,HL,Self-Employed,Uttarakhand,Home Purchase,0.45,0.445,154200.0,60,14.74,29,751.0,737600.0,0,0
+SYN-00749,HL,Self-Employed,Delhi,Working Capital,0.523,0.28,81300.0,240,12.42,11,759.0,124400.0,0,0
+SYN-00750,HL,Self-Employed,Uttar Pradesh,Business Expansion,0.502,0.442,89900.0,180,14.84,12,735.0,362200.0,0,0
+SYN-00751,PL,Self-Employed,Haryana,Working Capital,0.528,0.457,66400.0,120,12.22,3,746.0,1110400.0,0,16
+SYN-00752,HL,Self-Employed,Uttarakhand,Business Expansion,0.341,0.358,106700.0,120,11.61,9,772.0,375400.0,0,0
+SYN-00753,PL,Salaried,Uttar Pradesh,Business Expansion,0.85,0.586,126300.0,120,15.89,9,660.0,462800.0,235,355
+SYN-00754,LAP,Self-Employed,Haryana,Construction,0.538,0.541,59800.0,120,13.42,23,689.0,647900.0,283,403
+SYN-00755,HL,Salaried,Haryana,Working Capital,0.755,0.584,145400.0,180,14.98,12,734.0,187500.0,6,25
+SYN-00756,HL,Salaried,Haryana,Construction,0.422,0.47,59800.0,120,12.86,8,717.0,458700.0,0,0
+SYN-00757,PL,Self-Employed,Haryana,Construction,0.648,0.509,96300.0,180,15.26,11,663.0,456800.0,0,0
+SYN-00758,HL,Self-Employed,Delhi,Business Expansion,0.626,0.345,86600.0,84,13.95,18,639.0,1122600.0,0,16
+SYN-00759,PL,Self-Employed,Delhi,Construction,0.664,0.651,43600.0,240,13.91,24,763.0,238500.0,0,0
+SYN-00760,HL,Salaried,Uttarakhand,Home Purchase,0.474,0.498,72900.0,60,15.01,29,708.0,365600.0,15,184
+SYN-00761,LAP,Salaried,Haryana,Construction,0.667,0.474,69700.0,84,13.35,4,740.0,278100.0,0,15
+SYN-00762,PL,Salaried,Delhi,Home Purchase,0.766,0.453,47000.0,180,13.39,25,-1.0,263800.0,0,0
+SYN-00763,HL,Salaried,Uttarakhand,Working Capital,0.507,0.433,81600.0,60,14.48,13,798.0,777400.0,0,0
+SYN-00764,HL,Salaried,Haryana,Construction,0.525,0.621,76000.0,60,13.74,24,701.0,448300.0,0,9
+SYN-00765,PL,Salaried,Uttarakhand,Working Capital,0.33,0.499,81600.0,84,11.67,4,810.0,335100.0,0,0
+SYN-00766,HL,Salaried,Uttar Pradesh,Construction,0.463,0.499,70400.0,120,13.48,19,776.0,341500.0,0,0
+SYN-00767,HL,Self-Employed,Uttar Pradesh,Business Expansion,0.672,0.411,73400.0,240,14.65,28,715.0,333800.0,0,21
+SYN-00768,HL,Salaried,Haryana,Home Purchase,0.303,0.448,68700.0,180,12.03,4,760.0,349100.0,0,0
+SYN-00769,HL,Salaried,Uttar Pradesh,Working Capital,0.488,0.541,68100.0,120,14.37,24,689.0,235100.0,93,213
+SYN-00770,LAP,Self-Employed,Haryana,Construction,0.797,0.517,47700.0,240,13.18,6,808.0,388700.0,318,438
+SYN-00771,LAP,Salaried,Haryana,Home Purchase,0.656,0.552,216800.0,120,14.55,29,706.0,369700.0,9,0
+SYN-00772,HL,Self-Employed,Haryana,Home Purchase,0.77,0.419,38000.0,180,14.36,23,803.0,302900.0,0,0
+SYN-00773,PL,Self-Employed,Rajasthan,Home Purchase,0.527,0.543,50500.0,84,15.42,27,747.0,478100.0,20,14
+SYN-00774,HL,Salaried,Haryana,Construction,0.516,0.471,58200.0,120,13.62,27,756.0,498800.0,0,28
+SYN-00775,HL,Self-Employed,Uttar Pradesh,Business Expansion,0.433,0.52,180200.0,60,14.62,11,688.0,334900.0,0,4
+SYN-00776,LAP,Self-Employed,Haryana,Working Capital,0.452,0.333,44100.0,60,13.36,14,-1.0,411700.0,0,4
+SYN-00777,PL,Self-Employed,Delhi,Business Expansion,0.311,0.541,85800.0,180,14.93,21,659.0,1301900.0,0,6
+SYN-00778,HL,Self-Employed,Uttar Pradesh,Construction,0.586,0.362,81400.0,60,14.53,7,810.0,1277200.0,0,21
+SYN-00779,HL,Self-Employed,Rajasthan,Construction,0.461,0.328,94300.0,120,14.03,11,795.0,261200.0,0,20
+SYN-00780,LAP,Self-Employed,Haryana,Working Capital,0.49,0.395,128100.0,120,13.29,5,623.0,280100.0,0,0
+SYN-00781,PL,Salaried,Haryana,Working Capital,0.448,0.339,127200.0,60,12.11,26,727.0,260500.0,0,2
+SYN-00782,HL,Self-Employed,Uttar Pradesh,Home Purchase,0.5,0.641,51700.0,120,15.6,9,707.0,750500.0,202,322
+SYN-00783,HL,Self-Employed,Haryana,Working Capital,0.641,0.398,74300.0,120,15.0,14,698.0,362500.0,0,0
+SYN-00784,LAP,Self-Employed,Delhi,Construction,0.36,0.381,31600.0,180,15.08,15,772.0,498700.0,0,28
+SYN-00785,HL,Self-Employed,Delhi,Working Capital,0.576,0.588,75000.0,84,14.98,13,-1.0,1200800.0,0,0
+SYN-00786,HL,Salaried,Uttar Pradesh,Working Capital,0.752,0.395,51000.0,240,15.48,24,680.0,440100.0,0,20
+SYN-00787,HL,Self-Employed,Rajasthan,Business Expansion,0.666,0.421,68300.0,180,13.96,27,744.0,629800.0,0,0
+SYN-00788,HL,Self-Employed,Uttar Pradesh,Home Purchase,0.254,0.295,37400.0,120,12.86,18,779.0,573900.0,0,6
+SYN-00789,LAP,Salaried,Haryana,Business Expansion,0.427,0.526,88800.0,84,11.99,25,730.0,329700.0,0,14
+SYN-00790,PL,Salaried,Uttar Pradesh,Home Purchase,0.506,0.497,36200.0,180,13.21,5,821.0,751300.0,0,0
+SYN-00791,LAP,Salaried,Haryana,Business Expansion,0.417,0.461,86400.0,180,11.95,29,746.0,289300.0,0,0
+SYN-00792,LAP,Salaried,Delhi,Home Purchase,0.363,0.529,40400.0,84,14.12,6,736.0,864500.0,0,0
+SYN-00793,PL,Self-Employed,Haryana,Business Expansion,0.57,0.477,48400.0,240,13.87,4,729.0,329800.0,0,6
+SYN-00794,HL,Salaried,Haryana,Working Capital,0.392,0.308,141900.0,240,12.54,3,732.0,348400.0,0,21
+SYN-00795,HL,Salaried,Uttar Pradesh,Home Purchase,0.722,0.362,96200.0,120,13.3,9,685.0,256700.0,0,5
+SYN-00796,PL,Self-Employed,Haryana,Construction,0.529,0.629,113300.0,180,15.23,25,706.0,278700.0,0,0
+SYN-00797,HL,Self-Employed,Haryana,Business Expansion,0.704,0.579,135600.0,120,11.62,11,792.0,357400.0,24,41
+SYN-00798,LAP,Self-Employed,Uttarakhand,Construction,0.409,0.432,47600.0,180,14.51,24,730.0,131200.0,0,0
+SYN-00799,LAP,Self-Employed,Haryana,Home Purchase,0.379,0.456,143100.0,180,14.73,14,661.0,393700.0,0,0
+SYN-00800,HL,Self-Employed,Uttar Pradesh,Home Purchase,0.536,0.378,40500.0,60,14.69,5,630.0,343200.0,0,0
+SYN-00801,LAP,Self-Employed,Haryana,Construction,0.565,0.283,111600.0,60,13.37,15,811.0,656700.0,0,0
+SYN-00802,HL,Self-Employed,Haryana,Business Expansion,0.406,0.485,57000.0,84,15.46,9,724.0,546600.0,0,29
+SYN-00803,HL,Salaried,Haryana,Business Expansion,0.526,0.427,46700.0,240,13.97,10,778.0,310600.0,0,24
+SYN-00804,LAP,Self-Employed,Delhi,Home Purchase,0.411,0.419,87000.0,84,14.53,16,655.0,351800.0,20,0
+SYN-00805,HL,Salaried,Rajasthan,Construction,0.544,0.357,102500.0,180,14.91,24,717.0,393400.0,55,173
+SYN-00806,LAP,Salaried,Haryana,Construction,0.592,0.287,111600.0,120,13.39,18,783.0,930000.0,0,0
+SYN-00807,PL,Salaried,Rajasthan,Home Purchase,0.373,0.351,89000.0,84,11.72,9,763.0,293300.0,0,0
+SYN-00808,PL,Self-Employed,Uttar Pradesh,Business Expansion,0.451,0.426,79600.0,240,12.73,22,732.0,308700.0,0,0
+SYN-00809,HL,Self-Employed,Uttarakhand,Home Purchase,0.377,0.373,91100.0,120,12.56,21,734.0,251600.0,0,14
+SYN-00810,HL,Salaried,Uttarakhand,Construction,0.41,0.505,85200.0,84,13.87,9,771.0,210900.0,0,0
